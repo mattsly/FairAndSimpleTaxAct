@@ -616,12 +616,29 @@ Examples of what is NOT affected:
 * A homeowner takes out a mortgage to buy a house — no special tax  
 * A young entrepreneur borrows against a growing tech company to fund operations — no special tax (the company likely hasn't appreciated much yet)
 
-The rule targets only situations where:
-1. An asset has appreciated dramatically (like \$100M Apple stock → \$5B)
-2. You're borrowing an amount that implies you're extracting value from gains, not from legitimate business needs
-3. The goal is unlocking wealth without triggering tax
+**What about borrowing to fund innovation and business growth?**
 
-This distinction is administratively clear: lenders already distinguish between collateral value and borrower's basis. Financial institutions would report the necessary information automatically.
+A critical concern: does this rule discourage borrowing that fuels innovation, business expansion, and economic growth?
+
+**No.** The rule does not apply to borrowing used to fund genuine business expansion, research, operations, or other reinvestment. The distinction is straightforward:
+
+* **A venture capital fund** borrows \$500M against a portfolio company's appreciated equity to make other investments — **no special tax**. The borrowed money is being reinvested, creating jobs and economic activity.
+* **A founder** borrows against her startup's equity to fund R&D, payroll, or expansion — **no special tax**. The borrowed money flows back into the business.
+* **A private equity firm** borrows against portfolio company value to acquire additional companies or fund operations — **no special tax**. This is core business lending.
+* **An entrepreneur** borrows against appreciated real estate to open a second location — **no special tax**. The funds are being reinvested in productive activity.
+
+The rule applies only when borrowed funds are used for **personal consumption** (yachts, jets, luxury real estate, lifestyle expenses) rather than business reinvestment or productive economic activity.
+
+**How is this distinction enforced?**
+
+Lenders already track the stated purpose of loans — it's standard underwriting practice. Financial institutions would report:
+1. The collateral asset and its appreciated value
+2. The borrower's cost basis
+3. The stated purpose of the loan (business investment vs. personal use)
+
+The IRS already has well-established legal doctrines (substance-over-form, sham transaction doctrine) for addressing scenarios where claimed business purposes don't align with actual practice. Someone who borrows 'for consulting' but spends it all on a yacht would face the same scrutiny as someone who claims a vacation home is a 'rental property' but never rents it.
+
+**The result:** Innovation and legitimate capital formation are unaffected — while the buy-borrow-die loophole (extracting \$500M to live on a yacht for 30 years without paying tax on appreciated assets) is closed.
 
 ### **Impact**
 
@@ -636,15 +653,94 @@ The Fair & Simple Tax Act means:
 
 ## **Q11: What happens when someone dies?**
 
-Unrealized gains are taxed on the final return, using the same lifetime brackets. Heirs inherit assets with a clean basis.
+Under the Fair & Simple Tax Act, death is treated as a realization event — unrealized capital gains are taxed on the final return, using the same lifetime capital gains system detailed in FAQ 7. Heirs inherit assets with a 'clean basis' at the value at death.
 
-Most families owe nothing. Very large estates pay what has long been deferred.
+### **How the lifetime exemption applies at death**
+
+Everyone receives a **\$1.5 million lifetime capital gains exemption** that applies to all long-term gains during life — from home sales, stock sales, business exits, or any other appreciated asset.
+
+**At death, any remaining unused exemption applies first to unrealized gains.** This means:
+
+* If you've used \$500K of your lifetime exemption during life, you have **\$1M remaining** to shield unrealized gains at death
+* If you've never sold an appreciated asset during life, your **full \$1.5M exemption** applies to unrealized gains at death
+* If you've already used your full \$1.5M exemption, unrealized gains at death are taxed using the progressive capital gains rates (15%/20%/27%/32%)
+
+### **How it works in practice**
+
+**Example 1: Typical Middle-Class Estate**
+
+* You own a home worth \$600K (cost basis \$250K, gain \$350K)
+* You have \$200K in retirement accounts (ASA, fully taxed or converted)
+* You have \$150K in stock (cost basis \$100K, gain \$50K)
+* **Total unrealized gains at death:** \$400K
+
+**Tax owed:**
+* Remaining lifetime exemption: \$1.5M (unused during life)
+* Unrealized gains: \$400K
+* Amount taxed: **\$0** (fully covered by exemption)
+* Heirs inherit home and stock at stepped-up basis (\$600K and \$150K respectively)
+
+**Example 2: Comfortable Retirement**
+
+* You sold your home during life and used \$800K of your lifetime exemption
+* At death, you own stock worth \$3M (cost basis \$1M, gain \$2M)
+* **Remaining lifetime exemption:** \$700K
+
+**Tax owed:**
+* First \$700K of gain: **\$0** (covered by remaining exemption)
+* Next \$1.3M of gain: taxed at 15% = **\$195K**
+* **Total tax on final return:** \$195K
+* Heirs inherit stock at stepped-up basis of \$3M (clean slate)
+
+**Example 3: Very Large Estate**
+
+* You used your full \$1.5M lifetime exemption during life (sold businesses, real estate, stocks)
+* At death, you own \$100M in appreciated stock (cost basis \$20M, gain \$80M)
+* **Remaining lifetime exemption:** \$0 (already used)
+
+**Tax owed:**
+* First \$1.5M of gain: 15% = \$225K
+* Next \$7M of gain: 20% = \$1.4M
+* Next \$40M of gain: 27% = \$10.8M
+* Remaining \$31.5M of gain: 32% = \$10.08M
+* **Total tax on final return:** \$22.5M (28% effective rate on \$80M in gains)
+* Heirs inherit stock at stepped-up basis of \$100M
+
+### **Why this is fair**
+
+This system accomplishes several goals:
+
+1. **Protects typical families:** Most Americans die with far less than \$1.5M in unrealized gains. Their estates owe nothing.
+
+2. **Taxes only large fortunes:** Only estates with very large unrealized gains pay significant tax — and even then, only after using any remaining exemption.
+
+3. **Preserves the lifetime system:** The same exemption and progressive rates apply throughout life and at death. No special rules, no separate estate tax schedules.
+
+4. **Prevents permanent wealth avoidance:** Under current law, billionaires can die with \$100+ billion in unrealized gains and pass that wealth to heirs completely tax-free. The Fair & Simple Tax Act closes this loophole while protecting typical wealth accumulation.
+
+5. **Heirs start fresh:** Heirs inherit assets at their value at death (the 'clean basis'), so they don't owe tax on pre-death appreciation. They only owe tax on gains that occur after they inherit.
+
+### **What about illiquid assets?**
+
+For estates holding illiquid assets (family farms, small businesses, real estate), the Act provides **payment flexibility**:
+
+* Tax can be paid over 15 years at a low interest rate
+* No forced asset sales
+* Family businesses can continue operating
+
+This ensures that typical family wealth transfers — passing down a farm, a family business, or rental property — are not disrupted.
+
+### **The bottom line**
+
+Death is no longer a magic eraser for unrealized gains. But the system protects typical families completely, provides generous exemptions even for large estates, and preserves intergenerational wealth transfers for productive assets.
+
+**Most families owe nothing. Very large fortunes pay what has long been deferred.**
 
 # 
 
 # Part 4: Common Concerns
 
-## **Q12: Won’t this hurt families in high-tax states?**
+## **Q12: Will the changes to SALT hurt families in high-tax states?**
 
 **No.** The Fair & Simple Tax Act recognizes state and local tax burdens in a way that is fair, simple, and broadly shared — without preserving a loophole that primarily benefited the wealthiest households. The Fair & Simple Tax Act replaces a broken deduction with a fair, automatic credit — and most middle-class families come out ahead. 
 
@@ -736,14 +832,14 @@ The Act replaces this system with a **simple, universal charitable credit**.
 
 ### **How the new charitable credit works**
 
-* Donations to qualified charitable organizations receive a **15% refundable tax credit**  
+* Donations to qualified charitable organizations receive a **30% refundable tax credit**  
 * The credit is available to **all filers**, regardless of income or whether they itemize  
 * The credit is **capped at 25% of a filer’s total tax liability**  
 * Contributions must be made in cash or publicly traded securities and reported electronically by the charity
 
 In practical terms:
 
-* A \$1,000 donation generates a \$150 reduction in taxes owed  
+* A \$1,000 donation generates a \$300 reduction in taxes owed  
 * That benefit is the same whether you earn \$50,000 or \$5 million
 
   ### **Why replace the deduction with a credit?**
@@ -835,7 +931,6 @@ The Fair & Simple Tax Act is **revenue-neutral in Years 1-5** thanks to the Grea
 | Estate/Gift Tax | \$35B |
 | Other | \$345B |
 
-Export to Sheets  
 ---
 
 ### **Costs (Revenue We Lose)**
@@ -848,7 +943,6 @@ Export to Sheets
 | Child benefits consolidation | \+\$75-90B | Consolidates CTC/EITC/Childcare (current: \$276B) into universal \$2,500/child (\$185B), saves \$91B |
 | **Total Annual Costs** | **\-\$950B** | (Reduced by \$50B due to child benefits consolidation savings) |
 
-Export to Sheets  
 ---
 
 ### **Gains (Revenue We Add)**
@@ -867,7 +961,6 @@ Export to Sheets
 | Reduced tax gap (simpler \= compliance) | \+\$50-75B | \$600B+ gap, capture 10% through simplification |
 | **Total Annual Gains** | **\+\$860B \- \$1,130B** | (Increased by \$75B as child benefits show consolidation savings) |
 
-Export to Sheets  
 ---
 
 ### **Years 1-20: The Transition Trust Fund Bridge**
@@ -889,7 +982,6 @@ The Great Conversion offers holders of pre-tax retirement accounts (Traditional 
 | Mid | \-\$1,000B | \+\$910B | \+\$50B | **\-\$40B** |
 | Optimistic | \-\$1,000B | \+\$1,040B | \+\$50B | **\+\$90B** |
 
-Export to Sheets
 
 **Conclusion:** With the Transition Trust Fund smoothing the curve, the plan remains roughly revenue-neutral, without creating a fiscal cliff later.
 
