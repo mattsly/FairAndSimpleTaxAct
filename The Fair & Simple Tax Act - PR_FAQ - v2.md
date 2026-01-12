@@ -898,6 +898,61 @@ The Act replaces QSBS with a **simple, universal rule** that applies to all comp
 
 That is a win for innovation, not a loss.
 
+### **What about QSBS?**
+
+Let's be direct: QSBS (Qualified Small Business Stock) is a valuable benefit for some founders today, and yes, **some successful exits will pay more tax under the Fair & Simple Tax Act**. But it's worth understanding what QSBS actually does — and who it leaves behind.
+
+**What QSBS provides today:**
+
+* **100% exclusion** on capital gains from selling qualified small business stock
+* Capped at the greater of **\$10 million** or **10x your original investment**
+* Requires: C-corporation structure, held 5+ years, under \$50M in assets at issuance, active business (not passive holding company)
+
+**Who QSBS excludes:**
+
+* **LLCs, S-corps, and partnerships** — even if they're building innovative companies
+* **Restaurants, hotels, farms** — specifically excluded industries
+* **Professional services** — law, accounting, consulting, medicine
+* **Financial services and real estate** — also excluded
+* **Second and third companies** — founders who build multiple businesses face complexity and gaming around stacking \$10M exemptions
+
+**A concrete comparison: \$20M founder exit**
+
+Let's take a founder who starts with \$100K in stock and exits at \$20M after 7 years (a successful outcome, but not a mega-exit).
+
+**Today with QSBS:**
+* First \$10M of gain: **\$0 tax** (100% excluded)
+* Remaining \$10M of gain: ~20% federal capital gains = **\$2M tax**
+* **Total tax: \$2M**
+* **Founder keeps: \$18M (90%)**
+
+**Under the Fair & Simple Tax Act:**
+* Lifetime exemption: \$1.5M → **\$0 tax**
+* Next \$7M of gain: 15% = **\$1.05M**
+* Next \$11.5M of gain: 20% = **\$2.3M**
+* **Total tax: \$3.35M**
+* **Founder keeps: \$16.65M (83%)**
+
+**The honest answer:** Yes, that's **\$1.35M more in tax**. But the founder still keeps **\$16.65 million** — enough to be financially secure for life, start another company, or invest in the next generation of founders.
+
+**Why the universal system is better:**
+
+1. **It applies to everyone.** The LLC founder building a restaurant tech company gets the same \$1.5M exemption as the C-corp SaaS founder. The real estate entrepreneur gets the same treatment as the biotech founder. No arbitrary industry exclusions.
+
+2. **It's predictable and simple.** You don't need specialized tax counsel to figure out if you qualify. You don't need to structure your company a certain way just for QSBS. You don't need to game the system with multiple entities.
+
+3. **It rewards all innovation, not just venture-backed C-corps.** The fastest-growing segment of American entrepreneurship is outside traditional VC channels. Why should a founder building a \$50M service business in an 'excluded' industry get zero benefit while a comparable SaaS founder gets \$10M tax-free?
+
+4. **It scales progressively.** QSBS has a hard cliff at \$10M (or 10x basis). Under the Fair & Simple Tax Act, rates rise gradually as lifetime gains increase — no sudden jumps, no gaming around the cap.
+
+5. **It eliminates wealth transfer games.** Today, sophisticated founders structure QSBS to pass gains to family members, use multiple entities, or time transactions around the cap. The lifetime exemption system eliminates this complexity.
+
+**The bottom line on QSBS:**
+
+If you're a founder building the next billion-dollar company, you're going to be extraordinarily wealthy under either system. The question is whether we build a tax code around **fragile, gameable carve-outs that only help some founders** — or a **simple, universal system that treats all innovation equally**.
+
+The Fair & Simple Tax Act chooses the latter. Most founders — especially those outside traditional tech — come out ahead. And yes, some mega-exits pay modestly more. But in exchange, we get a system that's fair, predictable, and built to last.
+
 **4\. Extreme outcomes are treated differently — deliberately.**  
 The Act asks more only when lifetime gains reach levels that are extraordinarily rare and highly concentrated. These adjustments are modest, predictable, and well below top labor income rates.
 
