@@ -4,6 +4,43 @@
 
 ---
 
+## **Quick Navigation**
+
+**[Press Release](#press-release)** | **[Tenets](#tenets)** | **[FAQs](#frequently-asked-questions-faqs)**
+
+### **FAQ Quick Links**
+
+**Part 1: The Big Picture**
+- [Q1: What actually changes?](#q1-what-does-the-fair--simple-tax-act-actually-change)
+- [Q2: How much simpler is this?](#q2-how-much-simpler-is-this-really)
+- [Q3: Who benefits?](#q3-who-benefits-and-who-pays-more)
+- [Q4: Is this fiscally responsible?](#q4-is-this-plan-fiscally-responsible)
+
+**Part 2: Core Mechanics**
+- [Q5: Payroll taxes](#q5-what-happens-to-payroll-taxes)
+- [Q6: Income brackets](#q6-how-do-the-new-income-tax-brackets-work)
+- [Q7: Capital gains & dividends](#q7-how-are-capital-gains-dividends-and-investment-income-taxed)
+- [Q8: American Savings Account (ASA)](#q8-what-is-the-american-savings-account-asa)
+- [Q9: Legacy retirement accounts](#q9-what-happens-to-my-existing-401k-ira-or-other-legacy-accounts)
+- [Q10: Child tax benefit](#q10-what-is-the-child-tax-credit-under-this-plan-and-how-is-it-different-from-today)
+
+**Part 3: Closing Loopholes**
+- [Q11: Buy-borrow-die loophole](#q11-how-does-the-act-close-the-buy-borrow-die-loophole)
+- [Q12: What happens at death?](#q12-what-happens-when-someone-dies)
+- [Q13: Estate planning loopholes](#q13-how-does-this-close-estate-planning-loopholes-like-grats-dynasty-trusts-and-valuation-discounts)
+
+**Part 4: Common Concerns**
+- [Q14: SALT changes](#q14-will-the-changes-to-salt-hurt-families-in-high-tax-states)
+- [Q15: Primary residence exclusion](#q15-doesnt-eliminating-the-primary-residence-exclusion-hurt-homeowners)
+- [Q16: Charitable giving](#q16-how-does-this-affect-charitable-giving-and-nonprofits)
+- [Q17: Other tax incentives](#q17-what-about-student-loan-interest-energy-efficiency-credits-and-home-office-deductions)
+
+**Appendices**
+- [Appendix A: Revenue Model](#appendix-a-revenue-model)
+- [Appendix B: Taxpayer Case Studies](#appendix-b-taxpayer-case-studies)
+
+---
+
 # **Press Release**
 
 ### **A radically simplified tax code that supports upward mobility and puts the nation on a path toward a balanced budget**
@@ -22,7 +59,7 @@ When tax rules are opaque, public debate breaks down. Citizens can’t meaningfu
 
 By dramatically simplifying the tax code and making it understandable to anyone, the Fair & Simple Tax Act restores transparency. With fewer moving parts and fewer hidden rules, Americans can once again have productive conversations about shared priorities — what we want government to do, and what we are willing to pay for it.
 
-The current Internal Revenue Code spans 2,600 pages of statute and 10,000 pages of Treasury regulations. The Fair & Simple Tax Act reduces this to fewer than 200 pages — a 95% reduction in complexity.
+The current Internal Revenue Code spans 2,600 pages of statute and 10,000 pages of Treasury regulations. The Fair & Simple Tax Act reduces this to fewer than 200 pages of primary statutory text — a 95% reduction in complexity.
 
 ### **What this bill does**
 
@@ -70,51 +107,50 @@ The Fair & Simple Tax Act replaces a black box with a system people can see, und
 
 ## **Q1: What does the Fair & Simple Tax Act actually change?**
 
-The Act replaces a sprawling, exception-ridden tax code with a simpler structure built around five core reforms:
+The Act replaces a sprawling, exception-ridden tax code with a simpler structure. This table summarizes every major change, organized by policy area with details, tenets served, and annual fiscal impact:
 
-### **1\. Income Taxes: Fewer Brackets, Clear Rates**
-
-| Single Filer | Married Filing Jointly | Rate |
-| :---- | :---- | :---- |
-| \$0 – \$20,000 | \$0 – \$40,000 | 4% |
-| \$20,000 – \$60,000 | \$40,000 – \$120,000 | 12% |
-| \$60,000 – \$200,000 | \$120,000 – \$400,000 | 23% |
-| \$200,000 – \$300,000 | \$400,000 – \$600,000 | 36% |
-| \$300,000 – \$400,000 | \$600,000 – \$800,000 | 39% |
-| \$400,000+ | \$800,000+ | 45% |
-
-### **2\. Payroll Taxes: More Progressive, Simplified**
-
-* **Self-employment tax reduced to 12%:** Down from 15.3%, reducing burden on small business owners
-  * Includes full 6.2% Social Security, now with wage cap eliminated
-  * Includes 5.8% Medicare/employer portion (reduced from 2.9%)
-* **Social Security wage cap eliminated:** The 6.2% Social Security tax now applies to all wages—no ceiling
-* **Net effect:** Removes the regressive wage cap that currently exempts high earners from Social Security contributions above ~$160,000; simultaneously reduces overall SE tax burden on small business owners
-
-Social Security and Medicare remain fully funded. Benefit formulas do not change.
-
-### **3\. Capital Gains: Simple, Progressive, and Fair**
-
-* **\$1.5M lifetime exemption per person**  
-* Progressive rates above the exemption (15% from \$1.5M–\$3M, 20% from \$3M–\$10M, 27% from \$10M–\$50M, 32% above \$50M)
-* Same rules for homes, stocks, and businesses  
-* Step-up in basis eliminated  
-* Short-term gains (held less than one year) are taxed as income
-
-(See Q7 for details.)
-
-### **4\. Family Benefits: Automatic and Universal**
-
-* **\$6,000 per child per year** (full benefit <\$120K; phases \$120K–\$400K)  
-* Automatically delivered  
-* Fully refundable  
-* No income limits or phase-outs
-
-### **5\. Savings: One Account, Not Fifteen**
-
-* **American Savings Account (ASA):** one universal account for all life stages
-
-(See Q8 for details.)
+| **POLICY AREA** | **What Changes** | **Why This Matters** | **Annual Fiscal Impact** |
+| :---- | :---- | :---- | :---- |
+| **INCOME TAXES** | | | |
+| Six simplified brackets: 4%, 12%, 23%, 36%, 39%, 45% | Single, clear rate at each income level; no phase-outs or cliffs; eliminates AMT and NIIT complexity | Radical Simplicity, Fuel the Climb | Costs $110–130B (rate relief for middle class) |
+| Standard deduction for all; eliminates all itemized deductions | One number replaces hundreds of complex carve-outs; filers know immediately what they qualify for | Radical Simplicity | Negligible |
+| Mortgage interest deduction eliminated; replaced by standard deduction | Removes incentive to over-borrow; standard deduction applies to all; simplifies homeownership tax treatment | Radical Simplicity, Fuel the Climb | Raises $70–90B |
+| SALT deduction eliminated; replaced with automatic 10% universal credit (non-refundable, capped at $10K per filer) | Removes geographic preference favoring high-tax states; all filers treated equally; auto-calculated, not itemized | Radical Simplicity, Fairness | Negligible |
+| Charitable deduction eliminated; replaced with 30% universal credit (capped at 25% of tax liability; refundable to extent of 5% of AGI) | Removes complexity of substantiation; fixed credit replaces variable deduction (richer filers no longer get bigger breaks); automatic calculation | Radical Simplicity, Fairness | Negligible |
+| Medical cost credit: 30% refundable credit on expenses above $5K threshold | Targeted relief for catastrophic medical costs; not tied to itemization | Fuel the Climb | Negligible |
+| Student loan interest, energy efficiency credits, child/dependent care moved to direct programs (revenue-neutral; transparent outside tax code) | Simplifies tax code; makes government support visible; targeted programs more efficient | Radical Simplicity | Negligible |
+| **PAYROLL TAXES** | | | |
+| Social Security wage cap eliminated; 6.2% applies to all wages (no ceiling) | High earners now contribute on all income; removes regressive feature; strengthens solvency 75+ years (demographic assumptions) | Fuel the Climb, Fiscal Durability | Raises $150–200B |
+| Self-employment tax reduced to 12% (6.2% Social Security uncapped + 5.8% Medicare, down from 15.3%) | Small business owners pay lower rate; eliminates arbitrary employer-side/self-employed split; still fully funds programs | Fuel the Climb | Costs $50–70B |
+| Social Security and Medicare benefits unchanged; dedicated revenue extended indefinitely | Protects statutory solvency; program structure preserved; no benefit cuts or eligibility changes | Fiscal Durability | Negligible |
+| **CAPITAL GAINS & INVESTMENT INCOME** | | | |
+| $1.5M lifetime capital gains exemption per person ($3M per couple); progressive rates above: 15% ($1.5M–$3M), 20% ($3M–$10M), 27% ($10M–$50M), 32% ($50M+) | Protects ordinary wealth-building (home, retirement, business growth); extreme wealth pays more; same rules for all assets | Fuel the Climb, Fairness | Negligible (rates offset by loophole closures) |
+| Short-term gains (held <1 year) taxed as ordinary income | Discourages speculation; rewards patient capital; aligns tax code with investment horizon | Fuel the Climb | Negligible |
+| Stepped-up basis eliminated; unrealized gains taxed at death using lifetime exemption | Closes $300B+ annual loophole; death becomes realization event; illiquid assets get 15-year payout option at low interest | Fuel the Climb, Fiscal Durability | Raises $75–100B |
+| Buy-borrow-die closed; asset-backed borrowing triggers deemed sale on appreciation | Ends strategy of borrowing against appreciating assets to avoid realization; borrower is treated as seller for tax purposes | Fuel the Climb, Fiscal Durability | Raises $25–50B |
+| QSBS (Qualified Small Business Stock) eliminated; replaced with universal $1.5M lifetime exemption for all founders/early employees | All founders/investors get same break (removes preference for certain sectors); consistent with capital gains exemption; no arbitrary company-size thresholds | Radical Simplicity, Fuel the Climb | Raises $10–20B |
+| Carried interest: $120K salary floor + 20% of residual profit at capital gains rates (counts toward $1.5M exemption) | Reclassifies investment manager compensation as part salary (12% payroll floor), part capital gains (20% residual); prevents pure-compensation from masquerading as capital gains | Radical Simplicity, Fuel the Climb | Raises $50–80B |
+| Qualified dividends taxed at capital gains rates; ordinary dividends as ordinary income; dividends do NOT count against lifetime exemption | Preserves dividend preference (encourages corporate distributions to shareholders); exemption reserved for appreciation gains (business building); cleaner bookkeeping | Radical Simplicity, Fuel the Climb | Negligible |
+| **FAMILY & DEPENDENT BENEFITS** | | | |
+| Universal $6,000 per child per year; full benefit <$120K, phases linearly $120K–$400K | Consolidates CTC ($2,200+), EITC ($3,500+), childcare credits ($3,000+) into single, automatic payment; no paperwork, no phase-out cliffs | Radical Simplicity, Fuel the Climb | Costs $50–60B (net increase vs. current $276B in credits) |
+| Automatic delivery; fully refundable; no itemization required | Removes eligibility verification burden; direct payment to bank account or check; works for families with limited tax filing experience | Radical Simplicity, Fuel the Climb | Negligible |
+| **SAVINGS & RETIREMENT** | | | |
+| American Savings Account (ASA): universal account, $1K annual seed contribution, $30K annual cap, $2.5M lifetime cap | Replaces 15+ account types (401k, IRA, 529, 457, SIMPLE, SEP, HSA, 529-S, etc.); single interface for all savings goals; universal portability | Radical Simplicity | Negligible |
+| 10-year conversion window: pre-tax retirement accounts convert to ASA at 12% flat tax (one-time opportunity) | Clears $10T+ of trapped pre-tax assets; funds Great Conversion Trust Fund payout; revenue bridge Years 1–20 | Fiscal Durability | Raises $1.2–1.3T (one-time, collected Years 1–10, released Years 1–20) |
+| **ESTATES & INHERITANCE** | | | |
+| Death = realization event; unrealized gains taxed at death using lifetime capital gains exemption | Closes intergenerational deferral; every asset realizes at death; basis does not step up; exemption protects ordinary estates (<$1.5M in gains) | Fuel the Climb, Fiscal Durability | Included in capital gains estimates above |
+| Estate exemption reduced $14M → $5M per person ($10M per couple) | Affects ~30K estates annually vs. ~4K currently; protects family businesses/farms through 15-year illiquid asset payout option | Fuel the Climb, Fiscal Durability | Raises $50–65B |
+| Payment flexibility for illiquid assets: 15-year payout at 1% interest for farms, businesses, real estate | Prevents forced liquidation; preserves family businesses; low rate doesn't create additional burden | Fuel the Climb | Negligible |
+| **BUSINESS & PASS-THROUGHS** | | | |
+| Pass-throughs: $120K salary floor + 20% residual sweat-equity allowance on profits above salary (counts toward $1.5M lifetime capital gains exemption) | Clarifies compensation vs. capital; salary floor caps abuse; residual allowance rewards genuine risk-taking; counts toward cap, not unlimited escape | Radical Simplicity, Fuel the Climb | Costs $30–50B (allowance cost; net neutral after payroll savings) |
+| S-corp election becomes irrelevant; all entities (LLC, S-corp, Partnership) taxed identically: salary + distributions taxed as ordinary income + capital gains at exit | Eliminates 10,000+ pages of guidance on "reasonable compensation"; entity choice driven by liability/management, not tax optimization | Radical Simplicity | Negligible |
+| Home office: standard Schedule C deduction (flat $500/month or actual allocation; no percentage-of-square-footage loopholes) | Removes subjective "reasonable allocation" disputes; auto-calculated for most filers; moved to direct business deduction (transparent) | Radical Simplicity | Negligible |
+| **CORPORATE TAXES** | | | |
+| Corporate rate: 21% → 25% | Modest rate increase (still 4 points below pre-TCJA 35%); funds capital gains progressivity and business investment retention | Fiscal Durability | Raises $80B |
+| **ADMINISTRATION & COMPLIANCE** | | | |
+| Pre-filled returns for ~95% of filers (W-2 income, dividend/interest via 1099s, capital gains via brokerages, child benefits auto-populated) | IRS pre-fills based on third-party reports; filer reviews, confirms, files; no need for tax software or professional preparer for most Americans | Radical Simplicity | Raises $50–100B (reduced errors, faster processing) |
+| Reduced tax gap through automation and fewer carve-outs (third-party reporting closes loopholes, simpler rules = fewer gray areas) | Captures additional 10-15% of $600B+ annual tax gap; fewer deductions = fewer false claims; automated matching eliminates misreporting | Fiscal Durability | Raises $50–100B |
+| **OVERALL** | **Simpler & Fairer** | **Radical Simplicity · Fuel the Climb · Fiscal Durability** | **Raises $140–350B annually** |
 
 ---
 
@@ -200,11 +236,17 @@ The key change:
 
 * **Social Security tax (6.2%):** Currently capped at ~$160,000 of annual wages. The Fair & Simple Tax Act removes this cap entirely. High earners now pay on all wages, same as everyone else.
 * **Medicare tax (1.45%):** Unchanged (already uncapped)
-* **Overall effect:** Social Security funding improves by $150-200 billion annually, extending solvency indefinitely without raising rates or cutting benefits
+* **Overall effect:** Social Security funding improves by $150-200 billion annually, extending solvency by at least 75 years under current demographic assumptions without raising rates or cutting benefits
 
 **Why keep payroll taxes instead of consolidating them?**
 
-Payroll taxes have a unique feature: they're dedicated to specific benefits (Social Security and Medicare), and that dedication is protected by statute. Consolidating them into general revenue would require restructuring how these programs are funded and creating new protections to ensure they aren't raided for other purposes. The simpler solution: make the existing system more progressive by removing the wage cap.
+Two compelling reasons:
+
+1. **Statutory protection:** Social Security and Medicare funding are protected by statute from being raided for other purposes. Consolidating into general income tax would require creating new legislative protections.
+
+2. **Wage cap removal accomplishes the goal:** Removing the wage cap (instead of restructuring) makes the system more progressive while preserving that protection.
+
+Both approaches would work; we chose this one because it achieves progressivity while preserving Social Security's dedicated funding structure.
 
 **Does this affect my benefits?**
 
@@ -232,11 +274,13 @@ This creates a simple policy: high earners contribute more because all income co
 
 The system uses **six clear brackets**, indexed annually for inflation.
 
-There are:
+For income taxes specifically:
 
 * no phase-outs  
 * no hidden cliffs  
 * no alternative minimum taxes
+
+*(Note: The child benefit phases out $120K–$400K separately; see Q10)*
 
 Everyone knows their marginal rate. Everyone pays something. Families earning under $250K see clear tax relief compared to current law.
 
@@ -327,7 +371,7 @@ This compounds across the industry. With roughly 2,500-3,000 active PE/hedge fun
 **How the Fair & Simple Tax Act addresses this (aligned with sweat equity):**
 
 * **Compensation floor:** At least $120K (indexed) must be taken as ordinary income/salary.
-* **Residual allowance:** Up to 20% of residual profits may be treated as capital gains, counting against the lifetime exemption; the rest is ordinary income.
+* **Residual allowance:** Exactly 20% of residual profits may be treated as capital gains, counting against the lifetime exemption; the rest is ordinary income.
 * **Capital at risk:** Genuine GP capital contributions still receive capital gains treatment separately.
 * **Lifetime brake:** Preferred portions consume the $1.5M lifetime exemption; above that, progressive capital gains rates apply.
 
@@ -399,10 +443,10 @@ Convert pre-tax retirement accounts (Traditional 401(k), Traditional IRA, SEP, S
 
 This is critical to understand: The $1.5M lifetime capital gains exemption is entirely separate from the conversion tax.
 
-* **The 12% conversion tax** is a one-time transition fee on pre-tax accounts — not a "capital gains realization"
-* Your $1.5M exemption remains available for actual capital gains from investments, business sales, real estate, etc.
-* If your ASA account grows to $5M by retirement, the conversion doesn't "use up" your lifetime exemption
-* Instead, ASA withdrawal rules apply: tax-free growth until age 60 (up to $2.5M total), then capital gains rates apply to anything beyond $2.5M
+* **The 12% conversion tax** is a separate, one-time transition tax applied to pre-tax account balances — it does not consume any part of your $1.5M lifetime capital gains exemption
+* Your $1.5M exemption remains completely available for actual capital gains from investments, business sales, real estate, and future investments
+* If your ASA account grows to $5M by retirement, the original conversion doesn't "use up" any of your exemption
+* Instead, ASA withdrawal rules apply: tax-free growth until age 60 (up to $2.5M total), then capital gains rates apply to anything beyond $2.5M, using any remaining exemption
 
 **Example of the distinction:**
 
@@ -675,7 +719,7 @@ The Fair & Simple Tax Act addresses this by replacing complex carve-outs with si
 [^1]: See [IRS National Taxpayer Advocate 2023 Annual Report](https://taxpayeradvocate.irs.gov/reports/2023-annual-report-to-congress/), which details compliance challenges and revenue loss from underreporting and non-filing.
 
 [^2]: Goldman Sachs Equity Research, "Taxation of Unrealized Gains: A Comprehensive Analysis" (2021). The estimate reflects annual federal tax revenue foregone due to buy-borrow-die strategies among ultra-high-net-worth individuals.
-## **Q10: How does the Act close the 'buy, borrow, die' loophole?**
+## **Q11: How does the Act close the 'buy, borrow, die' loophole?**
 
 ### **What is 'Buy, Borrow, Die'?**
 
@@ -797,7 +841,7 @@ The Fair & Simple Tax Act means:
 
 **Bottom line:** Buy-borrow-die was a strategy that turned the tax system upside down, letting ultra-wealthy individuals treat borrowing as a substitute for selling, and stepping up basis as a substitute for paying what was owed. The Fair & Simple Tax Act treats borrowing as an economic event and treats death as a realization event — aligning the tax system with basic fairness.
 
-## **Q11: What happens when someone dies?**
+## **Q12: What happens when someone dies?**
 
 Under the Fair & Simple Tax Act, death is treated as a realization event — unrealized capital gains are taxed on the final return, using the same lifetime capital gains system detailed in FAQ 7. Heirs inherit assets with a 'clean basis' at the value at death.
 
@@ -886,7 +930,7 @@ Death is no longer a magic eraser for unrealized gains. But the system protects 
 
 # Part 4: Common Concerns
 
-## **Q12: Will the changes to SALT hurt families in high-tax states?**
+## **Q14: Will the changes to SALT hurt families in high-tax states?**
 
 **No.** The Fair & Simple Tax Act recognizes state and local tax burdens in a way that is fair, simple, and broadly shared — without preserving a loophole that primarily benefited the wealthiest households. The Fair & Simple Tax Act replaces a broken deduction with a fair, automatic credit — and most middle-class families come out ahead. 
 
@@ -2293,7 +2337,7 @@ Basically: Use a trust if you want to manage how/when heirs get money, or protec
 
 ### **Executive Summary**
 
-The Fair & Simple Tax Act is **revenue-neutral in Years 1-5** thanks to the Great Conversion windfall. Beyond Year 5, the simplified system generates automatic benefits — government efficiency, GDP growth from reduced deadweight loss, and improved compliance. If additional revenue is needed, we've built a foundation that makes future adjustments straightforward.
+The Fair & Simple Tax Act is **revenue-positive starting Year 1** thanks to strong loophole closures and the Great Conversion windfall. Years 1-5 net $500B-$900B annually depending on scenario. Beyond Year 5, the simplified system generates automatic benefits — government efficiency, GDP growth from reduced deadweight loss, and improved compliance. If additional revenue is needed, we've built a foundation that makes future adjustments straightforward.
 
 ---
 
@@ -2313,11 +2357,11 @@ The Fair & Simple Tax Act is **revenue-neutral in Years 1-5** thanks to the Grea
 
 | Change | Annual Cost | Notes |
 | :---- | :---- | :---- |
-| Employee FICA elimination | \-\$750B | 7.65% × \~\$10T in covered wages |
-| Middle-class bracket cuts | \-\$150B | Lower effective rates for \<\$150K |
-| Self-employed rate cut (15.3% → 8%) | \-\$50B | \~\$700B in self-employment income |
-| Child benefits consolidation | \-\$54B | Consolidates CTC/EITC/Childcare (current: \$276B) into \$6,000/child with phase-out (\$330B), costs \$54B more |
-| **Total Annual Costs** | **\-\$1,004B** | (Increased by \$54B due to child benefit enhancement) |
+| Income bracket adjustments | \-\$110–130B | Six slightly more progressive brackets (4%, 12%, 23%, 36%, 39%, 45%); eliminates AMT and NIIT |
+| Self-employment tax reduced to 12% | \-\$50–70B | From 15.3% to 12% (6.2% Social Security uncapped + 5.8% Medicare) |
+| Pass-through allowance ($120K salary + 20% residual) | \-\$30–50B | Applies to pass-through businesses; counts toward capital gains exemption |
+| Child benefits consolidation | \-\$50–60B | Consolidates CTC/EITC/Childcare (current: \$276B) into \$6,000/child with phase-out (\$330B) |
+| **Total Annual Costs** | **\-\$240–310B** | |
 
 ---
 
@@ -2325,19 +2369,19 @@ The Fair & Simple Tax Act is **revenue-neutral in Years 1-5** thanks to the Grea
 
 | Change | Annual Revenue | Notes |
 | :---- | :---- | :---- |
-| Employer ESNC (7.65% → 8%, uncapped) | \+\$100B | Modest rate increase \+ removal of wage cap |
-| Higher brackets (\$300K-\$400K at 40%, \$400K+ at 45%) | \+\$170B | Down from higher previous top rate, offset by capital gains increases |
-| Capital gains reform (lifetime brackets) | \+\$100-130B | \$1.5M exemption \+ 15%/20%/27%/32% progressive rates, closing QSBS, carried interest, NIIT |
-| Step-up elimination at death | \+\$75-100B | \~\$300B in gains currently escape annually |
-| Buy-Borrow-Die (borrowing rule) | \+\$25-50B | Closes asset-backed lending loophole |
-| Real estate/1031 reform | \+\$35-50B | Immediate realization on non-reinvested proceeds, basis resets, eventual exit taxation |
-| Pass-through reform | \~\$0 | 8% ESNC vs 15.3% SE tax (saves businesses \~\$50B), offset by QBI elimination (\~\$50B gain) |
-| Corporate rate (21% → 25%) | \+\$80B | \~19% rate increase |
-| Estate tax reform (\$14M → \$5M exemption) | \+\$50-65B | \~30K estates taxed vs. \~4K currently |
-| SALT deduction → capped credit | \+\$75-100B | Net of new universal credit |
-| Mortgage interest deduction elimination | \+\$30B |  |
-| Reduced tax gap (simpler \= compliance) | \+\$50-75B | \$600B+ gap, capture 10% through simplification |
-| **Total Annual Gains** | **\+\$910B \- \$1,205B** | (Increased by \$50B with pass-through reform added) |
+| Social Security wage cap eliminated; 6.2% applies to all wages | \+\$150–200B | Extends Social Security payroll tax to all earnings (no cap) |
+| Higher capital gains rates and loophole closures | \+\$50–80B | Carried interest: \$120K salary + 20% residual allowance |
+| QSBS eliminated; replaced with universal lifetime exemption | \+\$10–20B | All founders/investors get \$1.5M lifetime exemption |
+| Stepped-up basis eliminated at death | \+\$75–100B | Unrealized gains taxed at death using lifetime exemption |
+| Buy-Borrow-Die (asset-backed borrowing rule) | \+\$25–50B | Deemed sale on appreciated asset borrowing |
+| Real estate/1031 exchange reform | \+\$35–50B | Immediate realization on non-reinvested proceeds |
+| Capital gains rates (15%, 20%, 27%, 32% progressive above exemption) | \+\$100–130B | Progressive taxation of gains above \$1.5M lifetime exemption |
+| Corporate rate (21% → 25%) | \+\$80B | Standard rate increase |
+| Estate tax reform (\$14M → \$5M exemption) | \+\$50–65B | \~30K estates taxed vs. ~4K currently |
+| Mortgage interest deduction elimination | \+\$70–90B | Replaced with standard deduction for all |
+| SALT deduction elimination (replaced with universal credit) | Neutral | Eliminated deduction; replaced with automatic universal credit |
+| Pre-filled returns & reduced tax gap (simplification = compliance) | \+\$50–100B | \~95% of filers get pre-filled returns; capture \~10% of \$600B+ gap |
+| **Total Annual Gains** | **\+\$745–1,085B** | |
 
 ---
 
@@ -2356,12 +2400,12 @@ The Great Conversion offers holders of pre-tax retirement accounts (Traditional 
 
 | Scenario | Annual Costs | Annual Gains | Trust Fund Payout | Net |
 | :---- | :---- | :---- | :---- | :---- |
-| Conservative | \-\$1,000B | \+\$850B | \+\$60B | **\-\$90B** |
-| Mid | \-\$1,000B | \+\$975B | \+\$60B | **\+\$35B** |
-| Optimistic | \-\$1,000B | \+\$1,105B | \+\$60B | **\+\$165B** |
+| Conservative | \-\$310B | \+\$745B | \+\$60B | **\+\$495B** |
+| Mid | \-\$275B | \+\$915B | \+\$60B | **\+\$700B** |
+| Optimistic | \-\$240B | \+\$1,085B | \+\$60B | **\+\$905B** |
 
 
-**Conclusion:** With the Transition Trust Fund smoothing the curve, the plan remains roughly revenue-neutral, without creating a fiscal cliff later.
+**Conclusion:** With the Transition Trust Fund smoothing the curve and strong loophole closures driving immediate gains, the plan is solidly revenue-positive from Day 1, generating $500B-$900B annually in Years 1-5.
 
 ---
 
