@@ -34,6 +34,10 @@
 - [Q15: Primary residence exclusion](#q15-doesnt-eliminating-the-primary-residence-exclusion-hurt-homeowners)
 - [Q16: Charitable giving](#q16-how-does-this-affect-charitable-giving-and-nonprofits)
 - [Q17: Other tax incentives](#q17-what-about-student-loan-interest-energy-efficiency-credits-and-home-office-deductions)
+- [Q18: Medical expenses](#q18-what-about-medical-expenses-dont-people-with-high-medical-costs-need-help)
+- [Q19: Entrepreneurs](#q19-will-this-punish-entrepreneurs-and-innovators)
+- [Q20: Expatriation](#q20-what-about-expatriation-and-capital-flight)
+- [Q21: Pass-through businesses](#q21-how-does-this-affect-pass-through-businesses-s-corps-llcs-partnerships)
 
 **Appendices**
 - [Appendix A: Revenue Model](#appendix-a-revenue-model)
@@ -48,9 +52,9 @@
 
 ### **Three principles, one system**
 
-**Simplicity that restores transparency.** The current Internal Revenue Code spans 2,600 pages of statute and 10,000 pages of regulations. This bill reduces it to fewer than 200 pages. The vast majority of Americans will receive pre-filled tax returns — review, confirm, done. No forms, no schedules, no professional preparation for 95% of filers. Complexity has been weaponized by special interests; simplicity is the antidote.
+**Simplicity that restores transparency.** The current Internal Revenue Code spans 2,600 pages of statute and 10,000 pages of regulations. This bill reduces it by 95%. The vast majority of Americans will receive pre-filled tax returns — review, confirm, done. No forms, no schedules, no professional preparation for 95% of filers. Complexity has been weaponized by special interests; simplicity is the antidote.
 
-**Fairness that rewards work and building, not financial engineering.** Entrepreneurs and risk capital get real protection — a \$1.5M lifetime capital gains exemption, \$30K annual savings contributions, and simplified pass-through rules. But extreme wealth — the kind that hires lawyers to exploit stepped-up basis, buy-borrow-die strategies, and carried interest loopholes — pays its share. The system rewards genuine value creation, not tax engineering. More than a dozen overlapping savings programs become one universal account. The system stops rewarding complexity and starts rewarding the climb.
+**Fairness that rewards work and building, not financial engineering.** Everyone from everyday Americans building an emergency fund to patient savers to entrepreneurs to professional investors gets a real incentive to invest and save — a \$1.5M lifetime capital gains exemption, \$30K annual savings contributions, and simplified pass-through rules. But extreme wealth — the kind that hires lawyers to exploit stepped-up basis, buy-borrow-die strategies, and carried interest loopholes — pays its share. The system rewards genuine value creation, not tax engineering. More than a dozen overlapping savings programs become one universal account. The system stops rewarding complexity and starts rewarding the climb.
 
 **Fiscal durability from Day 1.** This bill is revenue-positive, generating \$140–350 billion annually by closing loopholes and broadening the base. Social Security's wage cap is eliminated — high earners finally contribute on all income, extending solvency 75+ years. No gimmicks. No optimistic projections. Just structural reforms that collect what's owed and fund what matters. This bill represents the revenue side's contribution to fiscal sustainability — closing 16–60% of the gap between today's 6% of GDP deficit and the sustainable 3–4% target. A similar approach to reducing spending spending side of the ledger will bring us to a sustainable federal budget.
 
@@ -616,7 +620,7 @@ Here's how conversion works in practice across different life stages and account
 **Consider keeping Traditional accounts if:**
 
 1. **Very low expected retirement income** — If you'll be in the 5-15% brackets in retirement, the savings from 10% conversion are smaller
-2. **Near the ARA cap** — If converting would push you well over \$2.5M, excess growth may face penalties
+2. **Near the ASA cap** — If converting would push you well over \$2.5M, excess growth may face penalties
 3. **Need funds before 59½** — Converting requires the 10% tax; early withdrawal from Traditional may be cheaper depending on circumstances
 4. **State tax considerations** — Some states don't tax retirement income; conversion may trigger state tax
 
@@ -955,7 +959,7 @@ The Fair & Simple Tax Act means:
 
 ## **Q12: What happens when someone dies?**
 
-Under the Fair & Simple Tax Act, death is treated as a realization event — unrealized capital gains are taxed on the final return, using the same lifetime capital gains system detailed in FAQ 7. Heirs inherit assets with a 'clean basis' at the value at death.
+Under the Fair & Simple Tax Act, death is treated as a realization event — unrealized capital gains are taxed on the final return, using the same lifetime capital gains system detailed in Q7. Heirs inherit assets with a 'clean basis' at the value at death.
 
 ### **How the lifetime exemption applies at death**
 
@@ -1040,391 +1044,7 @@ Death is no longer a magic eraser for unrealized gains. But the system protects 
 
 # 
 
-# Part 4: Common Concerns
-
-## **Q14: Will the changes to SALT hurt families in high-tax states?**
-
-**No.** The Fair & Simple Tax Act recognizes state and local tax burdens in a way that is fair, simple, and broadly shared — without preserving a loophole that primarily benefited the wealthiest households. The Fair & Simple Tax Act replaces a broken deduction with a fair, automatic credit — and most middle-class families come out ahead. 
-
-Under current law, the State and Local Tax (SALT) deduction is poorly designed:
-
-* Only about **10% of filers benefit**, mostly high earners who itemize  
-* The value of the deduction rises with your tax bracket, meaning it is worth far more to a household earning \$500,000 than one earning \$80,000  
-* It adds paperwork, complexity, and planning games without meaningfully helping most families
-
-As a result, the old SALT deduction functioned less as broad-based relief and more as a narrow, upside-skewed subsidy.
-
-### **Why recognize state and local taxes at all?**
-
-Americans already pay state and local taxes to fund core public services like schools, infrastructure, and public safety. A fair federal tax system should recognize that burden — **without creating an open-ended loophole that primarily benefits high earners**.
-
-The Fair & Simple Tax Act does this by replacing the old SALT deduction with a simple, automatic credit that applies to everyone.
-
-### **How the new system works**
-
-Instead of a deduction that only helps itemizers, the Act provides an **automatic SALT credit**:
-
-* Available to **all filers**, not just those who itemize  
-* Calculated automatically using a blended measure of state and local tax burden  
-* **Capped**, so benefits do not grow without limit for very high earners  
-* Delivered with no additional paperwork
-
-### **The bigger picture**
-
-For most families — especially those earning under \$400,000 — the combination of:
-
-* Payroll tax elimination (a 7.65% raise)  
-* Lower or similar income tax rates  
-* Automatic child benefits
-
-far outweighs any change in SALT treatment.
-
-## **Q13: Doesn’t eliminating the primary residence exclusion hurt homeowners?**
-
-**No. The lifetime capital gains exemption protects most home sales — and treats homeowners more fairly over time.**
-
-Under the Fair & Simple Tax Act, each individual receives a **\$1.5 million lifetime capital gains exemption** that applies to *all* long-term gains — including gains from the sale of a primary residence.
-
-For most homeowners, this means their home sale remains completely tax-free.
-
-### **A typical homeowner scenario**
-
-* Bought a home for \$250,000  
-* Sold years later for \$650,000  
-* Total gain: \$400,000  
-* Lifetime exemption used: \$400,000  
-* **Tax owed: \$0**
-
-The homeowner still has \$1.1 million of exemption remaining for future gains from investments, additional home sales, or a small business exit.
-
-### **What if I move more than once?**
-
-The lifetime exemption is designed to cover **multiple life events**, not just a single sale. Most households accumulate far less than \$1.5 million in total lifetime housing gains, even after several moves over decades.
-
-This means families can buy a starter home, move for work, upsize as their family grows, and downsize later in life — all without triggering capital gains tax in most cases.
-
-### **Why replace the current exclusion?**
-
-The existing home sale exclusion:
-
-* applies only to homeowners, not renters who build wealth through saving  
-* encourages tax-driven housing decisions  
-* requires tracking ownership and use tests
-
-By contrast, the lifetime exemption:
-
-* applies equally to homes, stocks, and businesses  
-* rewards long-term saving regardless of asset type  
-* eliminates special rules and paperwork
-
-### **The broader principle**
-
-Unlike the current system, which privileges housing over other forms of saving, the Fair & Simple Tax Act treats homeownership as **one important way** families build long-term security — not a tax-preferred category that distorts behavior.
-
-**Bottom line:**  
-Most home sales remain tax-free. Families who move over time are protected. And the tax code treats homeowners and renters more fairly than it does today.
-
-## **Q14: How does this affect charitable giving and nonprofits?**
-
-**The Fair & Simple Tax Act encourages charitable giving for everyone — not just those who itemize.**
-
-Under the current tax code, the charitable deduction is available primarily to high-income households who itemize. For most Americans, giving to charity provides little or no tax benefit at all.
-
-The Act replaces this system with a **simple, universal charitable credit**.
-
-### **How the new charitable credit works**
-
-* Donations to qualified charitable organizations receive a **30% refundable tax credit**  
-* The credit is available to **all filers**, regardless of income or whether they itemize  
-* The credit is **capped at 25% of a filer’s total tax liability**  
-* Contributions must be made in cash or publicly traded securities and reported electronically by the charity
-
-In practical terms:
-
-* A \$1,000 donation generates a \$300 reduction in taxes owed  
-* That benefit is the same whether you earn \$50,000 or \$5 million
-
-  ### **Why replace the deduction with a credit?**
-
-The current deduction system has several flaws:
-
-* It provides **larger subsidies to wealthier donors** (because deductions are worth more in higher tax brackets)  
-* Roughly **90% of filers receive no tax benefit** for charitable giving  
-* It adds complexity and planning strategies that favor sophisticated taxpayers
-
-By contrast, a flat credit:
-
-* treats every donor equally  
-* makes the incentive clear and predictable  
-* encourages broader participation in charitable giving
-
-  ### **What about large gifts and philanthropy?**
-
-The Act continues to encourage significant charitable contributions, but with reasonable limits.
-
-Capping the credit at a share of tax liability ensures that charitable giving remains a voluntary act of generosity — not a way to redirect the majority of one’s tax bill toward personally favored causes.
-
-This preserves public funding for shared priorities while still strongly supporting nonprofit organizations.
-
-### **What this means for nonprofits**
-
-* Middle- and lower-income donors are more likely to receive a meaningful incentive to give  
-* The donor base broadens beyond a small number of high-income households  
-* Giving decisions become less driven by tax planning and more by mission and impact
-
-**Bottom line:**  
-The Fair & Simple Tax Act replaces an uneven, opaque deduction with a clear, universal incentive that supports charities, respects democratic budgeting, and encourages giving across the income spectrum.
-
-## **Q15: What about student loan interest, energy efficiency credits, and home office deductions?**
-
-**These are eliminated.** We believe consumer incentives should be delivered transparently via direct government programs, not embedded in tax code as hidden subsidies.
-
-### **The Philosophy**
-
-When you put incentives in the tax code, three things happen:
-
-1. **They become invisible.** Voters don't know what government spending is happening; it's buried in return complexity
-2. **They're regressive.** High earners benefit more (higher marginal rates, better tax planning access)
-3. **They create perverse incentives.** Behavior gets distorted by tax rules rather than by actual policy merit
-
-**Example:** A $2,000 energy efficiency credit is worth $600 to a 30% bracket earner but $800 to a 40% earner — even though the environmental benefit is identical. Why should taxpayer income determine the subsidy for climate action?
-
-By contrast, direct programs make government spending visible and can be designed fairly:
-
-### **Student Loan Interest Deduction (~$7–10B annually)**
-
-**Current system:** $2,500 deduction for student loan interest, phasing out at $80K+ income (married). Regressive; excludes borrowers below the deduction threshold.
-
-**Fair & Simple approach:** Eliminate the deduction. Handle student debt via:
-- **Direct income-driven repayment reform** (cap payments at % of discretionary income, with transparent forgiveness timelines)
-- **Direct subsidies for specific populations** (teachers, public servants) if we want to incentivize those careers
-- **Transparent budget line-item** so voters know what we're spending on debt relief
-
-This way: Everyone can see what we're paying, and repayment is based on actual ability-to-pay, not tax bracket.
-
-### **Energy Efficiency & EV Credits (~$50–80B in various credits annually)**
-
-**Current system:** Fragmented credits for solar, heat pumps, EVs, home efficiency upgrades. Complex eligibility rules, income phase-outs, form-filing. Benefits accrue to higher-income households with access to tax planners and upfront capital.
-
-**Fair & Simple approach:** Eliminate all personal energy credits. Replace with:
-- **Point-of-sale rebates** (buyer walks into dealer or contractor, rebate is processed at checkout; no tax filing required)
-- **Direct grants for low-income retrofits** (government sends contractor to your home, does work, pays contractor directly)
-- **Transparent budget** so Congress debates: "Do we want to spend $60B on climate investment this year?"
-
-**Why this is better:** A homeowner buying a heat pump doesn't need to remember to claim a credit on next year's taxes. They get the savings immediately. Contractors know exact pricing. And voters can see: "We spent $60B on clean energy incentives last year."
-
-### **Home Office Deduction**
-
-**Current system:** "Simplified option" ($5/sq ft, capped at 300 sq ft = max $1,500/year) or "actual expense" method (depreciate home, deduct % of utilities, mortgage interest, property tax, repairs). Confusing; encourages creative allocation of home expenses.
-
-**Fair & Simple approach:** **Home office remains a standard business deduction on Schedule C** — but it's treated like any other business expense:
-- If you're self-employed and have a dedicated office space, you can deduct the direct costs of that space (rent if rented, or fair-market rent if in your own home)
-- You track square footage and business-use percentage
-- No percentage allocation of household utilities or mortgage interest
-- It's simple, auditable, and leaves no room for gaming
-
-**The key difference:** You're not trying to apportion your mortgage/utilities/repairs across your home. You're simply deducting the cost of your workspace, same as you'd deduct rent for a commercial office.
-
-**Example:**
-- You own a home and use 200 sq ft (10% of your home) as a dedicated office
-- Your home's fair-market rent value is $24,000/year (an appraisal figure)
-- You can deduct $2,400/year for the office space
-- That's it. No depreciation schedules, no utilities allocation, no repairs basis
-
-This remains fully deductible by self-employed people — we're not eliminating it, just simplifying it and removing the loopholes that turned it into a way to allocate personal home expenses.
-
-### **Why This Approach**
-
-These three categories represent ~$60–100B in annual tax expenditures that:
-
-- Are poorly targeted (help higher-income households more)
-- Are invisible to voters (buried in code complexity)
-- Distort behavior (people make decisions based on tax incentives, not actual economics)
-- Are hard to audit and easy to abuse
-
-By moving them to **direct, transparent, auditable programs**, we:
-
-✓ Make government spending visible  
-✓ Design benefits fairly (same subsidy for same action, regardless of income/bracket)  
-✓ Reduce tax compliance burden (no forms to file, no audit risk)  
-✓ Enable Congress to have honest debates: "Should we spend $60B on clean energy?"
-
-**The bottom line:**  
-We're not cutting these programs. We're making them honest.
-
-## **Q15a: What about medical expenses? Don't people with high medical costs need help?**
-
-**Yes, they do.** That's why we're replacing the complex itemized medical deduction with a **simple, refundable medical cost credit.**
-
-### **The Problem with Current Law**
-
-Today's medical expense deduction is broken:
-
-1. **Only helps itemizers:** Most people (87%) take the standard deduction and get zero help with medical costs
-2. **High threshold:** You can only deduct medical expenses **exceeding 7.5% of your AGI**
-   - On $60K income, you need $4,500 in expenses just to start deducting
-   - On $100K income, you need $7,500
-3. **Regressive:** Higher earners get bigger tax savings (worth more at 37% bracket than 12%)
-4. **Complex:** Requires itemizing, tracking receipts, understanding qualified medical expenses
-
-**Result:** A family with a $40K medical emergency gets little or no help because they don't itemize or don't exceed the threshold.
-
-### **The Fair & Simple Solution: Universal Medical Cost Credit**
-
-**Structure:**
-- **30% refundable credit** on medical expenses above **$5,000 threshold**
-- Available to **everyone** (not just itemizers)
-- **Fully refundable** (get the benefit even if you owe no tax)
-- Simple to claim (no itemization, just report total qualified medical expenses)
-
-**Example 1: Middle-class family, $70K income, $15K medical emergency**
-- **Current system:**
-  - Need $5,250 to start deducting (7.5% of $70K)
-  - Can deduct: $15K - $5,250 = $9,750
-  - Tax savings at 12% bracket: $1,170
-  - **But**: Only if they itemize (most don't)
-- **Fair & Simple:**
-  - Expenses above $5K: $15K - $5K = $10K
-  - Credit: $10K × 30% = **$3,000 refundable**
-  - No itemization required, get it even if you owe no tax
-
-**Example 2: Low-income family, $35K income, $12K medical costs**
-- **Current system:**
-  - Need $2,625 to start deducting
-  - Can deduct: $12K - $2,625 = $9,375
-  - **But**: Take standard deduction anyway (don't itemize), so get $0
-- **Fair & Simple:**
-  - Expenses above $5K: $12K - $5K = $7K
-  - Credit: $7K × 30% = **$2,100 refundable**
-  - Get the benefit regardless of itemization or tax owed
-
-### **Why This Is Better**
-
-1. **Universal:** Helps everyone with high medical costs, not just itemizers
-2. **Progressive:** Same 30% rate regardless of income bracket (vs. regressive deduction)
-3. **Refundable:** Get the benefit even if you owe no tax (helps low-income families most)
-4. **Simple:** No itemization, no calculating AGI thresholds, just report expenses
-5. **Fair threshold:** $5K is simpler than "7.5% of AGI" and roughly equivalent for median incomes
-
-### **What Qualifies as Medical Expenses?**
-
-Same categories as today:
-- Doctor visits, hospital care, surgery
-- Prescription medications
-- Medical equipment (wheelchairs, hearing aids, etc.)
-- Health insurance premiums (if not pre-tax via employer)
-- Long-term care expenses
-- Mental health and addiction treatment
-
-**Not qualified:**
-- Cosmetic procedures (unless medically necessary)
-- General health/wellness products
-- Over-the-counter medications (unless prescribed)
-
-### **Budget Impact**
-
-**Current medical deduction:** ~$10–15B/year in tax expenditures (mostly to high-income itemizers)
-
-**New medical credit:** ~$12–18B/year (spread more broadly, helps more families)
-
-**Net cost:** ~$3–5B/year additional (but vastly more equitable and effective)
-
-### **The Bottom Line**
-
-Families facing medical emergencies shouldn't have to navigate itemization rules and AGI thresholds to get help. The medical cost credit delivers relief simply, fairly, and universally—consistent with our philosophy that support should be transparent and accessible to everyone.
-
-## **Q17: Will this punish entrepreneurs and innovators?**
-
-**No. The Fair & Simple Tax Act is designed to reward long-term innovation, protect the startup ecosystem, and eliminate loopholes that distort incentives.**
-
-America’s greatest economic advantage is its ability to turn risky ideas into world-changing companies. This Act is built around that reality — and around the fact that innovation thrives in systems that are predictable, neutral, and fair.
-
-### **Why this strengthens, rather than weakens, innovation**
-
-**1\. The United States remains the best place in the world to build a company.**  
-The Act preserves low taxes on long-term investment, a generous lifetime capital gains exemption, and clear, predictable rules. For the vast majority of founders, effective tax rates on exits are **lower than or comparable to current law**, without relying on fragile carve-outs.
-
-The goal is not to penalize success — it is to remove uncertainty so founders can focus on building, not tax planning.
-
-**2\. Patient, high-risk capital is still favored.**  
-Founders and early investors who hold equity for the long term continue to benefit from capital gains treatment and the lifetime exemption. Short-term trading is taxed as income; long-term company building is rewarded.
-
-This reinforces the same time horizons that venture capital already depends on.
-
-**3\. The QSBS loophole is replaced with something better, not nothing.**  
-QSBS helped some founders, but it was narrow, complex, and arbitrarily structured. Many legitimate startups and investors never qualified.
-
-The Act replaces QSBS with a **simple, universal rule** that applies to all companies and all founders, regardless of industry, structure, or legal form.
-
-That is a win for innovation, not a loss.
-
-### **What about QSBS?**
-
-Let's be direct: QSBS (Qualified Small Business Stock) is a valuable benefit for some founders today, and yes, **some successful exits will pay more tax under the Fair & Simple Tax Act**. But it's worth understanding what QSBS actually does — and who it leaves behind.
-
-**What QSBS provides today:**
-
-* **100% exclusion** on capital gains from selling qualified small business stock
-* Capped at the greater of **\$10 million** or **10x your original investment**
-* Requires: C-corporation structure, held 5+ years, under \$50M in assets at issuance, active business (not passive holding company)
-
-**Who QSBS excludes:**
-
-* **LLCs, S-corps, and partnerships** — even if they're building innovative companies
-* **Restaurants, hotels, farms** — specifically excluded industries
-* **Professional services** — law, accounting, consulting, medicine
-* **Financial services and real estate** — also excluded
-* **Second and third companies** — founders who build multiple businesses face complexity and gaming around stacking \$10M exemptions
-
-**A concrete comparison: \$20M founder exit**
-
-Let's take a founder who starts with \$100K in stock and exits at \$20M after 7 years (a successful outcome, but not a mega-exit).
-
-**Today with QSBS:**
-* First \$10M of gain: **\$0 tax** (100% excluded)
-* Remaining \$10M of gain: ~20% federal capital gains = **\$2M tax**
-* **Total tax: \$2M**
-* **Founder keeps: \$18M (90%)**
-
-**Under the Fair & Simple Tax Act:**
-* Lifetime exemption: \$1.5M → **\$0 tax**
-* Next \$7M of gain: 15% = **\$1.05M**
-* Next \$11.5M of gain: 20% = **\$2.3M**
-* **Total tax: \$3.35M**
-* **Founder keeps: \$16.65M (83%)**
-
-**The honest answer:** Yes, that's **\$1.35M more in tax**. But the founder still keeps **\$16.65 million** — enough to be financially secure for life, start another company, or invest in the next generation of founders.
-
-**Why the universal system is better:**
-
-1. **It applies to everyone.** The LLC founder building a restaurant tech company gets the same \$1.5M exemption as the C-corp SaaS founder. The real estate entrepreneur gets the same treatment as the biotech founder. No arbitrary industry exclusions.
-
-2. **It's predictable and simple.** You don't need specialized tax counsel to figure out if you qualify. You don't need to structure your company a certain way just for QSBS. You don't need to game the system with multiple entities.
-
-3. **It rewards all innovation, not just venture-backed C-corps.** The fastest-growing segment of American entrepreneurship is outside traditional VC channels. Why should a founder building a \$50M service business in an 'excluded' industry get zero benefit while a comparable SaaS founder gets \$10M tax-free?
-
-4. **It scales progressively.** QSBS has a hard cliff at \$10M (or 10x basis). Under the Fair & Simple Tax Act, rates rise gradually as lifetime gains increase — no sudden jumps, no gaming around the cap.
-
-5. **It eliminates wealth transfer games.** Today, sophisticated founders structure QSBS to pass gains to family members, use multiple entities, or time transactions around the cap. The lifetime exemption system eliminates this complexity.
-
-**The bottom line on QSBS:**
-
-If you're a founder building the next billion-dollar company, you're going to be extraordinarily wealthy under either system. The question is whether we build a tax code around **fragile, gameable carve-outs that only help some founders** — or a **simple, universal system that treats all innovation equally**.
-
-The Fair & Simple Tax Act chooses the latter. Most founders — especially those outside traditional tech — come out ahead. And yes, some mega-exits pay modestly more. But in exchange, we get a system that's fair, predictable, and built to last.
-
-**4\. Extreme outcomes are treated differently — deliberately.**  
-The Act asks more only when lifetime gains reach levels that are extraordinarily rare and highly concentrated. These adjustments are modest, predictable, and well below top labor income rates.
-
-This reflects a basic principle: America should reward extraordinary success, but not build a tax code that depends on it being completely untaxed.
-
-**5\. Innovation depends on systems, not carve-outs.**  
-Breakthroughs happen in ecosystems — universities, infrastructure, talent pipelines, and deep capital markets. A simpler, more durable tax system strengthens those foundations, which matter more to long-term innovation than any single exemption.
-
-**Bottom line:**  
-The Fair & Simple Tax Act protects ambition, rewards risk-taking, and preserves America’s innovation edge — while ensuring that the system works for decades rather than depending on fragile loopholes.
-
-## **Q18: How does this close estate planning loopholes like GRATs, dynasty trusts, and valuation discounts?**
+## **Q13: How does this close estate planning loopholes like GRATs, dynasty trusts, and valuation discounts?**
 
 **The Fair & Simple Tax Act eliminates the underlying conditions that make sophisticated estate planning techniques work — without having to ban each one individually.**
 
@@ -1534,9 +1154,7 @@ Closing these loopholes would recover **\$75-150 billion annually** in the long 
 * Comes from **closing permanent tax avoidance** used exclusively by the ultra-wealthy
 * Represents recovery of **revenue that has long been deferred or lost**
 
-### **Why this matters**
-
-The U.S. federal government is currently running a structural deficit, with revenues roughly \$1-2 trillion below spending levels. Recovering \$100+ billion annually from wealthy families using sophisticated estate planning techniques is both:
+Without closing these loopholes, the U.S. federal government is currently running a structural deficit, with revenues roughly \$1-2 trillion below spending levels. Recovering \$100+ billion annually from wealthy families using sophisticated estate planning techniques is both:
 
 1. **Fiscally necessary** — helps restore revenue-to-spending balance
 2. **Foundationally fair** — closes techniques that are available to maybe 50,000 families globally
@@ -1614,7 +1232,392 @@ The Fair & Simple Tax Act doesn't ban these techniques. It just says: **at some 
 
 Typical families are completely protected. Ultra-wealthy families can still transfer wealth — they just can't transfer billions tax-free across 10 generations using legal engineering.
 
-## **Q19: What about expatriation and capital flight?**
+# Part 4: Common Concerns
+
+## **Q14: Will the changes to SALT hurt families in high-tax states?**
+
+**No.** The Fair & Simple Tax Act recognizes state and local tax burdens in a way that is fair, simple, and broadly shared — without preserving a loophole that primarily benefited the wealthiest households. The Fair & Simple Tax Act replaces a broken deduction with a fair, automatic credit — and most middle-class families come out ahead. 
+
+Under current law, the State and Local Tax (SALT) deduction is poorly designed:
+
+* Only about **10% of filers benefit**, mostly high earners who itemize  
+* The value of the deduction rises with your tax bracket, meaning it is worth far more to a household earning \$500,000 than one earning \$80,000  
+* It adds paperwork, complexity, and planning games without meaningfully helping most families
+
+As a result, the old SALT deduction functioned less as broad-based relief and more as a narrow, upside-skewed subsidy.
+
+### **Why recognize state and local taxes at all?**
+
+Americans already pay state and local taxes to fund core public services like schools, infrastructure, and public safety. A fair federal tax system should recognize that burden — **without creating an open-ended loophole that primarily benefits high earners**.
+
+The Fair & Simple Tax Act does this by replacing the old SALT deduction with a simple, automatic credit that applies to everyone.
+
+### **How the new system works**
+
+Instead of a deduction that only helps itemizers, the Act provides an **automatic SALT credit**:
+
+* Available to **all filers**, not just those who itemize  
+* Calculated automatically using a blended measure of state and local tax burden  
+* **Capped**, so benefits do not grow without limit for very high earners  
+* Delivered with no additional paperwork
+
+### **The bigger picture**
+
+For most families — especially those earning under \$400,000 — the combination of:
+
+* Payroll tax elimination (a 7.65% raise)  
+* Lower or similar income tax rates  
+* Automatic child benefits
+
+far outweighs any change in SALT treatment.
+
+## **Q15: Doesn’t eliminating the primary residence exclusion hurt homeowners?**
+
+**No. The lifetime capital gains exemption protects most home sales — and treats homeowners more fairly over time.**
+
+Under the Fair & Simple Tax Act, each individual receives a **\$1.5 million lifetime capital gains exemption** that applies to *all* long-term gains — including gains from the sale of a primary residence.
+
+For most homeowners, this means their home sale remains completely tax-free.
+
+### **A typical homeowner scenario**
+
+* Bought a home for \$250,000  
+* Sold years later for \$650,000  
+* Total gain: \$400,000  
+* Lifetime exemption used: \$400,000  
+* **Tax owed: \$0**
+
+The homeowner still has \$1.1 million of exemption remaining for future gains from investments, additional home sales, or a small business exit.
+
+### **What if I move more than once?**
+
+The lifetime exemption is designed to cover **multiple life events**, not just a single sale. Most households accumulate far less than \$1.5 million in total lifetime housing gains, even after several moves over decades.
+
+This means families can buy a starter home, move for work, upsize as their family grows, and downsize later in life — all without triggering capital gains tax in most cases.
+
+### **Why replace the current exclusion?**
+
+The existing home sale exclusion:
+
+* applies only to homeowners, not renters who build wealth through saving  
+* encourages tax-driven housing decisions  
+* requires tracking ownership and use tests
+
+By contrast, the lifetime exemption:
+
+* applies equally to homes, stocks, and businesses  
+* rewards long-term saving regardless of asset type  
+* eliminates special rules and paperwork
+
+### **The broader principle**
+
+Unlike the current system, which privileges housing over other forms of saving, the Fair & Simple Tax Act treats homeownership as **one important way** families build long-term security — not a tax-preferred category that distorts behavior.
+
+**Bottom line:**  
+Most home sales remain tax-free. Families who move over time are protected. And the tax code treats homeowners and renters more fairly than it does today.
+
+## **Q16: How does this affect charitable giving and nonprofits?**
+
+**The Fair & Simple Tax Act encourages charitable giving for everyone — not just those who itemize.**
+
+Under the current tax code, the charitable deduction is available primarily to high-income households who itemize. For most Americans, giving to charity provides little or no tax benefit at all.
+
+The Act replaces this system with a **simple, universal charitable credit**.
+
+### **How the new charitable credit works**
+
+* Donations to qualified charitable organizations receive a **30% refundable tax credit**  
+* The credit is available to **all filers**, regardless of income or whether they itemize  
+* The credit is **capped at 25% of a filer’s total tax liability**  
+* Contributions must be made in cash or publicly traded securities and reported electronically by the charity
+
+In practical terms:
+
+* A \$1,000 donation generates a \$300 reduction in taxes owed  
+* That benefit is the same whether you earn \$50,000 or \$5 million
+
+  ### **Why replace the deduction with a credit?**
+
+The current deduction system has several flaws:
+
+* It provides **larger subsidies to wealthier donors** (because deductions are worth more in higher tax brackets)  
+* Roughly **90% of filers receive no tax benefit** for charitable giving  
+* It adds complexity and planning strategies that favor sophisticated taxpayers
+
+By contrast, a flat credit:
+
+* treats every donor equally  
+* makes the incentive clear and predictable  
+* encourages broader participation in charitable giving
+
+  ### **What about large gifts and philanthropy?**
+
+The Act continues to encourage significant charitable contributions, but with reasonable limits.
+
+Capping the credit at a share of tax liability ensures that charitable giving remains a voluntary act of generosity — not a way to redirect the majority of one’s tax bill toward personally favored causes.
+
+This preserves public funding for shared priorities while still strongly supporting nonprofit organizations.
+
+### **What this means for nonprofits**
+
+* Middle- and lower-income donors are more likely to receive a meaningful incentive to give  
+* The donor base broadens beyond a small number of high-income households  
+* Giving decisions become less driven by tax planning and more by mission and impact
+
+**Bottom line:**  
+The Fair & Simple Tax Act replaces an uneven, opaque deduction with a clear, universal incentive that supports charities, respects democratic budgeting, and encourages giving across the income spectrum.
+
+## **Q17: What about student loan interest, energy efficiency credits, and home office deductions?**
+
+**These are eliminated.** We believe consumer incentives should be delivered transparently via direct government programs, not embedded in tax code as hidden subsidies.
+
+### **The Philosophy**
+
+When you put incentives in the tax code, three things happen:
+
+1. **They become invisible.** Voters don't know what government spending is happening; it's buried in return complexity
+2. **They're regressive.** High earners benefit more (higher marginal rates, better tax planning access)
+3. **They create perverse incentives.** Behavior gets distorted by tax rules rather than by actual policy merit
+
+**Example:** A $2,000 energy efficiency credit is worth $600 to a 30% bracket earner but $800 to a 40% earner — even though the environmental benefit is identical. Why should taxpayer income determine the subsidy for climate action?
+
+By contrast, direct programs make government spending visible and can be designed fairly:
+
+### **Student Loan Interest Deduction (~$7–10B annually)**
+
+**Current system:** $2,500 deduction for student loan interest, phasing out at $80K+ income (married). Regressive; excludes borrowers below the deduction threshold.
+
+**Fair & Simple approach:** Eliminate the deduction. Handle student debt via:
+- **Direct income-driven repayment reform** (cap payments at % of discretionary income, with transparent forgiveness timelines)
+- **Direct subsidies for specific populations** (teachers, public servants) if we want to incentivize those careers
+- **Transparent budget line-item** so voters know what we're spending on debt relief
+
+This way: Everyone can see what we're paying, and repayment is based on actual ability-to-pay, not tax bracket.
+
+### **Energy Efficiency & EV Credits (~$50–80B in various credits annually)**
+
+**Current system:** Fragmented credits for solar, heat pumps, EVs, home efficiency upgrades. Complex eligibility rules, income phase-outs, form-filing. Benefits accrue to higher-income households with access to tax planners and upfront capital.
+
+**Fair & Simple approach:** Eliminate all personal energy credits. Replace with:
+- **Point-of-sale rebates** (buyer walks into dealer or contractor, rebate is processed at checkout; no tax filing required)
+- **Direct grants for low-income retrofits** (government sends contractor to your home, does work, pays contractor directly)
+- **Transparent budget** so Congress debates: "Do we want to spend $60B on climate investment this year?"
+
+**Why this is better:** A homeowner buying a heat pump doesn't need to remember to claim a credit on next year's taxes. They get the savings immediately. Contractors know exact pricing. And voters can see: "We spent $60B on clean energy incentives last year."
+
+### **Home Office Deduction**
+
+**Current system:** "Simplified option" ($5/sq ft, capped at 300 sq ft = max $1,500/year) or "actual expense" method (depreciate home, deduct % of utilities, mortgage interest, property tax, repairs). Confusing; encourages creative allocation of home expenses.
+
+**Fair & Simple approach:** **Home office remains a standard business deduction on Schedule C** — but it's treated like any other business expense:
+- If you're self-employed and have a dedicated office space, you can deduct the direct costs of that space (rent if rented, or fair-market rent if in your own home)
+- You track square footage and business-use percentage
+- No percentage allocation of household utilities or mortgage interest
+- It's simple, auditable, and leaves no room for gaming
+
+**The key difference:** You're not trying to apportion your mortgage/utilities/repairs across your home. You're simply deducting the cost of your workspace, same as you'd deduct rent for a commercial office.
+
+**Example:**
+- You own a home and use 200 sq ft (10% of your home) as a dedicated office
+- Your home's fair-market rent value is $24,000/year (an appraisal figure)
+- You can deduct $2,400/year for the office space
+- That's it. No depreciation schedules, no utilities allocation, no repairs basis
+
+This remains fully deductible by self-employed people — we're not eliminating it, just simplifying it and removing the loopholes that turned it into a way to allocate personal home expenses.
+
+### **Why This Approach**
+
+These three categories represent ~$60–100B in annual tax expenditures that:
+
+- Are poorly targeted (help higher-income households more)
+- Are invisible to voters (buried in code complexity)
+- Distort behavior (people make decisions based on tax incentives, not actual economics)
+- Are hard to audit and easy to abuse
+
+By moving them to **direct, transparent, auditable programs**, we:
+
+✓ Make government spending visible  
+✓ Design benefits fairly (same subsidy for same action, regardless of income/bracket)  
+✓ Reduce tax compliance burden (no forms to file, no audit risk)  
+✓ Enable Congress to have honest debates: "Should we spend $60B on clean energy?"
+
+**The bottom line:**  
+We're not cutting these programs. We're making them honest.
+
+## **Q18: What about medical expenses? Don't people with high medical costs need help?**
+
+**Yes, they do.** That's why we're replacing the complex itemized medical deduction with a **simple, refundable medical cost credit.**
+
+### **The Problem with Current Law**
+
+Today's medical expense deduction is broken:
+
+1. **Only helps itemizers:** Most people (87%) take the standard deduction and get zero help with medical costs
+2. **High threshold:** You can only deduct medical expenses **exceeding 7.5% of your AGI**
+   - On $60K income, you need $4,500 in expenses just to start deducting
+   - On $100K income, you need $7,500
+3. **Regressive:** Higher earners get bigger tax savings (worth more at 37% bracket than 12%)
+4. **Complex:** Requires itemizing, tracking receipts, understanding qualified medical expenses
+
+**Result:** A family with a $40K medical emergency gets little or no help because they don't itemize or don't exceed the threshold.
+
+### **The Fair & Simple Solution: Universal Medical Cost Credit**
+
+**Structure:**
+- **30% refundable credit** on medical expenses above **$5,000 threshold**
+- Available to **everyone** (not just itemizers)
+- **Fully refundable** (get the benefit even if you owe no tax)
+- Simple to claim (no itemization, just report total qualified medical expenses)
+
+**Example 1: Middle-class family, $70K income, $15K medical emergency**
+- **Current system:**
+  - Need $5,250 to start deducting (7.5% of $70K)
+  - Can deduct: $15K - $5,250 = $9,750
+  - Tax savings at 12% bracket: $1,170
+  - **But**: Only if they itemize (most don't)
+- **Fair & Simple:**
+  - Expenses above $5K: $15K - $5K = $10K
+  - Credit: $10K × 30% = **$3,000 refundable**
+  - No itemization required, get it even if you owe no tax
+
+**Example 2: Low-income family, $35K income, $12K medical costs**
+- **Current system:**
+  - Need $2,625 to start deducting
+  - Can deduct: $12K - $2,625 = $9,375
+  - **But**: Take standard deduction anyway (don't itemize), so get $0
+- **Fair & Simple:**
+  - Expenses above $5K: $12K - $5K = $7K
+  - Credit: $7K × 30% = **$2,100 refundable**
+  - Get the benefit regardless of itemization or tax owed
+
+### **Why This Is Better**
+
+1. **Universal:** Helps everyone with high medical costs, not just itemizers
+2. **Progressive:** Same 30% rate regardless of income bracket (vs. regressive deduction)
+3. **Refundable:** Get the benefit even if you owe no tax (helps low-income families most)
+4. **Simple:** No itemization, no calculating AGI thresholds, just report expenses
+5. **Fair threshold:** $5K is simpler than "7.5% of AGI" and roughly equivalent for median incomes
+
+### **What Qualifies as Medical Expenses?**
+
+Same categories as today:
+- Doctor visits, hospital care, surgery
+- Prescription medications
+- Medical equipment (wheelchairs, hearing aids, etc.)
+- Health insurance premiums (if not pre-tax via employer)
+- Long-term care expenses
+- Mental health and addiction treatment
+
+**Not qualified:**
+- Cosmetic procedures (unless medically necessary)
+- General health/wellness products
+- Over-the-counter medications (unless prescribed)
+
+### **Budget Impact**
+
+**Current medical deduction:** ~$10–15B/year in tax expenditures (mostly to high-income itemizers)
+
+**New medical credit:** ~$12–18B/year (spread more broadly, helps more families)
+
+**Net cost:** ~$3–5B/year additional (but vastly more equitable and effective)
+
+### **The Bottom Line**
+
+Families facing medical emergencies shouldn't have to navigate itemization rules and AGI thresholds to get help. The medical cost credit delivers relief simply, fairly, and universally—consistent with our philosophy that support should be transparent and accessible to everyone.
+
+## **Q19: Will this punish entrepreneurs and innovators?**
+
+**No. The Fair & Simple Tax Act is designed to reward long-term innovation, protect the startup ecosystem, and eliminate loopholes that distort incentives.**
+
+America’s greatest economic advantage is its ability to turn risky ideas into world-changing companies. This Act is built around that reality — and around the fact that innovation thrives in systems that are predictable, neutral, and fair.
+
+### **Why this strengthens, rather than weakens, innovation**
+
+**1\. The United States remains the best place in the world to build a company.**  
+The Act preserves low taxes on long-term investment, a generous lifetime capital gains exemption, and clear, predictable rules. For the vast majority of founders, effective tax rates on exits are **lower than or comparable to current law**, without relying on fragile carve-outs.
+
+The goal is not to penalize success — it is to remove uncertainty so founders can focus on building, not tax planning.
+
+**2\. Patient, high-risk capital is still favored.**  
+Founders and early investors who hold equity for the long term continue to benefit from capital gains treatment and the lifetime exemption. Short-term trading is taxed as income; long-term company building is rewarded.
+
+This reinforces the same time horizons that venture capital already depends on.
+
+**3\. The QSBS loophole is replaced with something better, not nothing.**  
+QSBS helped some founders, but it was narrow, complex, and arbitrarily structured. Many legitimate startups and investors never qualified.
+
+The Act replaces QSBS with a **simple, universal rule** that applies to all companies and all founders, regardless of industry, structure, or legal form.
+
+That is a win for innovation, not a loss.
+
+### **What about QSBS?**
+
+Let's be direct: QSBS (Qualified Small Business Stock) is a valuable benefit for some founders today, and yes, **some successful exits will pay more tax under the Fair & Simple Tax Act**. But it's worth understanding what QSBS actually does — and who it leaves behind.
+
+**What QSBS provides today:**
+
+* **100% exclusion** on capital gains from selling qualified small business stock
+* Capped at the greater of **\$10 million** or **10x your original investment**
+* Requires: C-corporation structure, held 5+ years, under \$50M in assets at issuance, active business (not passive holding company)
+
+**Who QSBS excludes:**
+
+* **LLCs, S-corps, and partnerships** — even if they're building innovative companies
+* **Restaurants, hotels, farms** — specifically excluded industries
+* **Professional services** — law, accounting, consulting, medicine
+* **Financial services and real estate** — also excluded
+* **Second and third companies** — founders who build multiple businesses face complexity and gaming around stacking \$10M exemptions
+
+**A concrete comparison: \$20M founder exit**
+
+Let's take a founder who starts with \$100K in stock and exits at \$20M after 7 years (a successful outcome, but not a mega-exit).
+
+**Today with QSBS:**
+* First \$10M of gain: **\$0 tax** (100% excluded)
+* Remaining \$10M of gain: ~20% federal capital gains = **\$2M tax**
+* **Total tax: \$2M**
+* **Founder keeps: \$18M (90%)**
+
+**Under the Fair & Simple Tax Act:**
+* Lifetime exemption: \$1.5M → **\$0 tax**
+* Next \$7M of gain: 15% = **\$1.05M**
+* Next \$11.5M of gain: 20% = **\$2.3M**
+* **Total tax: \$3.35M**
+* **Founder keeps: \$16.65M (83%)**
+
+**The honest answer:** Yes, that's **\$1.35M more in tax**. But the founder still keeps **\$16.65 million** — enough to be financially secure for life, start another company, or invest in the next generation of founders.
+
+**Why the universal system is better:**
+
+1. **It applies to everyone.** The LLC founder building a restaurant tech company gets the same \$1.5M exemption as the C-corp SaaS founder. The real estate entrepreneur gets the same treatment as the biotech founder. No arbitrary industry exclusions.
+
+2. **It's predictable and simple.** You don't need specialized tax counsel to figure out if you qualify. You don't need to structure your company a certain way just for QSBS. You don't need to game the system with multiple entities.
+
+3. **It rewards all innovation, not just venture-backed C-corps.** The fastest-growing segment of American entrepreneurship is outside traditional VC channels. Why should a founder building a \$50M service business in an 'excluded' industry get zero benefit while a comparable SaaS founder gets \$10M tax-free?
+
+4. **It scales progressively.** QSBS has a hard cliff at \$10M (or 10x basis). Under the Fair & Simple Tax Act, rates rise gradually as lifetime gains increase — no sudden jumps, no gaming around the cap.
+
+5. **It eliminates wealth transfer games.** Today, sophisticated founders structure QSBS to pass gains to family members, use multiple entities, or time transactions around the cap. The lifetime exemption system eliminates this complexity.
+
+**The bottom line on QSBS:**
+
+If you're a founder building the next billion-dollar company, you're going to be extraordinarily wealthy under either system. The question is whether we build a tax code around **fragile, gameable carve-outs that only help some founders** — or a **simple, universal system that treats all innovation equally**.
+
+The Fair & Simple Tax Act chooses the latter. Most founders — especially those outside traditional tech — come out ahead. And yes, some mega-exits pay modestly more. But in exchange, we get a system that's fair, predictable, and built to last.
+
+**4\. Extreme outcomes are treated differently — deliberately.**  
+The Act asks more only when lifetime gains reach levels that are extraordinarily rare and highly concentrated. These adjustments are modest, predictable, and well below top labor income rates.
+
+This reflects a basic principle: America should reward extraordinary success, but not build a tax code that depends on it being completely untaxed.
+
+**5\. Innovation depends on systems, not carve-outs.**  
+Breakthroughs happen in ecosystems — universities, infrastructure, talent pipelines, and deep capital markets. A simpler, more durable tax system strengthens those foundations, which matter more to long-term innovation than any single exemption.
+
+**Bottom line:**  
+The Fair & Simple Tax Act protects ambition, rewards risk-taking, and preserves America’s innovation edge — while ensuring that the system works for decades rather than depending on fragile loopholes.
+
+
+## **Q20: What about expatriation and capital flight?**
 
 **The Fair & Simple Tax Act treats renunciation of citizenship the same way it treats death — as a realization event. Departing citizens owe tax on accumulated gains, just like they would if they sold everything.**
 
@@ -1965,7 +1968,7 @@ Real estate doesn't disappear. Landlords don't disappear. Depreciation deduction
 
 What disappears is the ability to defer taxes indefinitely by chaining 1031s across decades and generations. Wealth created in real estate eventually gets taxed — at exit or at death, just like wealth in any other asset class.
 
-## **Q20: How does this affect pass-through businesses (S-Corps, LLCs, partnerships)?**
+## **Q21: How does this affect pass-through businesses (S-Corps, LLCs, partnerships)?**
 
 **Pass-through businesses are treated simply and consistently: business income flows through to the owner's personal return and is taxed as ordinary income. Self-employment taxes are simplified to 12% (keeping the full 6.2% Social Security contribution, which now applies to ALL income with no wage cap). Entrepreneurship is rewarded through a compensation-first structure: owners must draw a fair salary, then can access limited, well-defined capital-gains treatment for sweat equity (see below), and full capital gains treatment at exit.**
 
@@ -2757,16 +2760,16 @@ This table shows the distributional impact of the Fair & Simple Tax Act across i
 
 | Income Percentile | Representative Income | Current Effective Rate | Fair & Simple Rate | Change | Annual $ Change | Who Wins/Loses |
 |---|---|---|---|---|---|---|
-| **Bottom 20%** | \$25,000 | 10.5% | 8.2% | -2.3 pts | **-\$575** | ✓ Wins |
-| **20-40%** | \$45,000 | 14.8% | 12.5% | -2.3 pts | **-\$1,035** | ✓ Wins |
-| **40-60%** | \$75,000 | 17.2% | 15.8% | -1.4 pts | **-\$1,050** | ✓ Wins |
-| **60-80%** | \$125,000 | 19.5% | 18.9% | -0.6 pts | **-\$750** | ✓ Wins |
-| **80-90%** | \$200,000 | 21.8% | 21.5% | -0.3 pts | **-\$600** | ✓ ~Even |
-| **90-95%** | \$300,000 | 23.5% | 24.2% | +0.7 pts | **+\$2,100** | Pays more |
-| **95-99%** | \$500,000 | 26.2% | 28.5% | +2.3 pts | **+\$11,500** | Pays more |
-| **Top 1% (99-99.9%)** | \$1.5M | 28.5% | 32.8% | +4.3 pts | **+\$64,500** | Pays significantly more |
-| **Top 0.1%** | \$5M | 29.8% | 35.2% | +5.4 pts | **+\$270,000** | Pays significantly more |
-| **Top 0.01%** | \$25M | 23.1% | 37.5% | +14.4 pts | **+\$3.6M** | Pays dramatically more |
+| **Bottom 20%** | \$25,000 | 10.5% | 8.2% | -2.3% | **-\$575** | ✓ Wins |
+| **20-40%** | \$45,000 | 14.8% | 12.5% | -2.3% | **-\$1,035** | ✓ Wins |
+| **40-60%** | \$75,000 | 17.2% | 15.8% | -1.4% | **-\$1,050** | ✓ Wins |
+| **60-80%** | \$125,000 | 19.5% | 18.9% | -0.6% | **-\$750** | ✓ Wins |
+| **80-90%** | \$200,000 | 21.8% | 21.5% | -0.3% | **-\$600** | ✓ ~Even |
+| **90-95%** | \$300,000 | 23.5% | 24.2% | +0.7% | **+\$2,100** | Pays more |
+| **95-99%** | \$500,000 | 26.2% | 28.5% | +2.3% | **+\$11,500** | Pays more |
+| **Top 1% (99-99.9%)** | \$1.5M | 28.5% | 32.8% | +4.3% | **+\$64,500** | Pays significantly more |
+| **Top 0.1%** | \$5M | 29.8% | 35.2% | +5.4% | **+\$270,000** | Pays significantly more |
+| **Top 0.01%** | \$25M | 23.1% | 37.5% | +14.4% | **+\$3.6M** | Pays dramatically more |
 
 *Note: Current effective rates include FICA, federal income tax, and account for common deductions/loopholes. Fair & Simple rates include ESNC (employer-side only) and income tax with no loopholes.*
 
@@ -2791,10 +2794,10 @@ This table shows the distributional impact of the Fair & Simple Tax Act across i
 
 | Income Group | Share of Total Income | Current Tax Share | Fair & Simple Tax Share | Change |
 |---|---|---|---|---|
-| Bottom 50% | 12% | 3% | 2% | -1 pt |
-| 50-90% | 38% | 30% | 28% | -2 pts |
-| 90-99% | 32% | 38% | 40% | +2 pts |
-| Top 1% | 18% | 29% | 30% | +1 pt |
+| Bottom 50% | 12% | 3% | 2% | -1% |
+| 50-90% | 38% | 30% | 28% | -2% |
+| 90-99% | 32% | 38% | 40% | +2% |
+| Top 1% | 18% | 29% | 30% | +1% |
 
 **Result:** The system becomes slightly more progressive. The bottom 90% contributes less as a share of total revenue, while the top 10% contributes more.
 
@@ -2835,7 +2838,7 @@ These case studies show detailed before/after calculations for representative ta
 | Federal Income Tax | \$2,271 | \$3,250 | \+\$979 |
 | Child Tax Credit | \$0 | \$0 | — |
 | **Total Federal Tax** | **\$4,949** | **\$3,250** | **\-\$1,699** |
-| **Effective Rate** | **14.1%** | **9.3%** | **\-4.8 pts** |
+| **Effective Rate** | **14.1%** | **9.3%** | **\-4.8%** |
 
  
 
@@ -2853,7 +2856,7 @@ These case studies show detailed before/after calculations for representative ta
 | Self-Employment Tax (15.3%) | \$6,885 | \$3,600 | \-\$3,285 |
 | Federal Income Tax | \$2,567 | \$4,750 | \+\$2,183 |
 | **Total Federal Tax** | **\$9,452** | **\$8,350** | **\-\$1,102** |
-| **Effective Rate** | **21.0%** | **18.6%** | **\-2.4 pts** |
+| **Effective Rate** | **21.0%** | **18.6%** | **\-2.4%** |
 
  
 
@@ -2871,7 +2874,7 @@ These case studies show detailed before/after calculations for representative ta
 | Employee FICA (7.65%) | \$4,208 | \$0 | \-\$4,208 |
 | Federal Income Tax | \$4,208 | \$6,250 | \+\$2,042 |
 | **Total Federal Tax** | **\$8,416** | **\$6,250** | **\-\$2,166** |
-| **Effective Rate** | **15.3%** | **11.4%** | **\-3.9 pts** |
+| **Effective Rate** | **15.3%** | **11.4%** | **\-3.9%** |
 
  
 
@@ -2889,7 +2892,7 @@ These case studies show detailed before/after calculations for representative ta
 | Employee FICA (7.65%) | \$4,590 | \$0 | \-\$4,590 |
 | Federal Income Tax | \$5,168 | \$7,000 | \+\$1,832 |
 | **Total Federal Tax** | **\$9,758** | **\$7,000** | **\-\$2,758** |
-| **Effective Rate** | **16.3%** | **11.7%** | **\-4.6 pts** |
+| **Effective Rate** | **16.3%** | **11.7%** | **\-4.6%** |
 
  
 
@@ -2908,7 +2911,7 @@ These case studies show detailed before/after calculations for representative ta
 | Federal Income Tax | \$6,748 | \$11,050 | \+\$4,302 |
 | Child Tax Credit | \-\$2,000 | \-\$6,000 | \-\$4,000 |
 | **Total Federal Tax** | **\$10,486** | **\$5,050** | **\-\$5,436** |
-| **Effective Rate** | **14.0%** | **6.7%** | **\-7.3 pts** |
+| **Effective Rate** | **14.0%** | **6.7%** | **\-7.3%** |
 
  
 
@@ -2926,7 +2929,7 @@ These case studies show detailed before/after calculations for representative ta
 | Self-Employment Tax | \$18,360 | \$9,600 | \-\$8,760 |
 | Federal Income Tax | \$13,234 | \$23,500 | \+\$10,266 |
 | **Total Federal Tax** | **\$31,594** | **\$33,100** | **\+\$1,506** |
-| **Effective Rate** | **26.3%** | **27.6%** | **\+1.3 pts** |
+| **Effective Rate** | **26.3%** | **27.6%** | **\+1.3%** |
 
  
 
@@ -2943,7 +2946,7 @@ These case studies show detailed before/after calculations for representative ta
 | Federal Income Tax | \$12,456 | \$19,400 | \+\$6,944 |
 | Child Tax Credit | \-\$6,000 | \-\$17,143 | \-\$11,143 |
 | **Total Federal Tax** | **\$17,166** | **\$2,257** | **\-\$14,909** |
-| **Effective Rate** | **12.3%** | **1.6%** | **\-10.7 pts** |
+| **Effective Rate** | **12.3%** | **1.6%** | **\-10.7%** |
 
  
 
@@ -2962,7 +2965,7 @@ These case studies show detailed before/after calculations for representative ta
 | Federal Income Tax | \$18,123 | \$30,200 | \+\$12,077 |
 | Child Tax Credit | \-\$4,000 | \-\$5,000 | \-\$1,000 |
 | **Total Federal Tax** | **\$41,663** | **\$39,600** | **\-\$2,063** |
-| **Effective Rate** | **23.1%** | **22.0%** | **\-1.1 pts** |
+| **Effective Rate** | **23.1%** | **22.0%** | **\-1.1%** |
 
  
 
@@ -2980,7 +2983,7 @@ These case studies show detailed before/after calculations for representative ta
 | Employee FICA (7.65%) | \$15,300 | \$0 | \-\$15,300 |
 | Federal Income Tax | \$23,997 | \$35,600 | \+\$11,603 |
 | **Total Federal Tax** | **\$39,297** | **\$35,600** | **\-\$3,697** |
-| **Effective Rate** | **19.6%** | **17.8%** | **\-1.8 pts** |
+| **Effective Rate** | **19.6%** | **17.8%** | **\-1.8%** |
 
  
 
@@ -2998,7 +3001,7 @@ These case studies show detailed before/after calculations for representative ta
 | Employee FICA | \$10,453 | \$0 | \-\$10,453 |
 | Federal Income Tax | \$165,829 | \$212,800 | \+\$46,971 |
 | **Total Federal Tax** | **\$176,282** | **\$212,800** | **\+\$36,518** |
-| **Effective Rate** | **29.4%** | **35.5%** | **\+6.1 pts** |
+| **Effective Rate** | **29.4%** | **35.5%** | **\+6.1%** |
 
  
 
@@ -3019,7 +3022,7 @@ These case studies show detailed before/after calculations for representative ta
 | Lifetime Exemption Used | N/A | \$400,000 | — |
 | Taxable Gain | \$150,000 | \$0 | \-\$150,000 |
 | Capital Gains Tax | \$22,350 | \$0 | \-\$22,350 |
-| **Effective Rate** | **5.6%** | **0%** | **\-5.6 pts** |
+| **Effective Rate** | **5.6%** | **0%** | **\-5.6%** |
 
  
 
@@ -3039,7 +3042,7 @@ These case studies show detailed before/after calculations for representative ta
 | Lifetime Exemption | N/A | \-\$1,200,000 | — |
 | Taxable Gain | \$700,000 | \$0 | \-\$700,000 |
 | Capital Gains Tax | \$104,300 | \$0 | \-\$104,300 |
-| **Effective Rate** | **8.7%** | **0%** | **\-8.7 pts** |
+| **Effective Rate** | **8.7%** | **0%** | **\-8.7%** |
 
  
 
@@ -3058,7 +3061,7 @@ These case studies show detailed before/after calculations for representative ta
 | Lifetime Exemption | N/A | \-\$1,500,000 | — |
 | Taxable Gain | \$0 | \$1,400,000 | \+\$1,400,000 |
 | Capital Gains Tax | \$0 | \$210,000 | \+\$210,000 |
-| **Effective Rate** | **0%** | **7.2%** | **\+7.2 pts** |
+| **Effective Rate** | **0%** | **7.2%** | **\+7.2%** |
 
  
 
@@ -3070,7 +3073,7 @@ These case studies show detailed before/after calculations for representative ta
 | :---- | :---- | :---- | :---- |
 | Taxable Gain | \$2,900,000 | \$1,400,000 | \-\$1,500,000 |
 | Capital Gains Tax | \$575,420 | \$210,000 | \-\$365,420 |
-| **Effective Rate** | **19.8%** | **7.2%** | **\-12.6 pts** |
+| **Effective Rate** | **19.8%** | **7.2%** | **\-12.6%** |
 
  
 
@@ -3089,7 +3092,7 @@ These case studies show detailed before/after calculations for representative ta
 | Lifetime Exemption | N/A | \-\$1,500,000 | — |
 | Taxable Gain | \$0 | \$8,000,000 | — |
 | Capital Gains Tax | \$0 | \$1,550,000 | \+\$1,550,000 |
-| **Effective Rate (with QSBS)** | **0%** | **16.3%** | **\+16.3 pts** |
+| **Effective Rate (with QSBS)** | **0%** | **16.3%** | **\+16.3%** |
 
  
 
@@ -3102,7 +3105,7 @@ These case studies show detailed before/after calculations for representative ta
 |  | Current Law | Fair & Simple | Change |
 | :---- | :---- | :---- | :---- |
 | Capital Gains Tax | \$1,890,500 | \$1,525,000 | \-\$365,500 |
-| **Effective Rate** | **19.9%** | **16.1%** | **\-3.8 pts** |
+| **Effective Rate** | **19.9%** | **16.1%** | **\-3.8%** |
 
  
 
@@ -3120,7 +3123,7 @@ These case studies show detailed before/after calculations for representative ta
 | Lifetime Exemption | N/A | \-\$1,500,000 | — |
 | Taxable Gain | \$49,000,000 | \$47,500,000 | — |
 | Capital Gains Tax | \$11,662,200 | \$11,350,000 | \-\$312,200 |
-| **Effective Rate** | **23.8%** | **23.2%** | **\-0.6 pts** |
+| **Effective Rate** | **23.8%** | **23.2%** | **\-0.6%** |
 
  
 
@@ -3131,7 +3134,7 @@ These case studies show detailed before/after calculations for representative ta
 |  | Current Law | Fair & Simple | Change |
 | :---- | :---- | :---- | :---- |
 | Capital Gains Tax | \$11,662,200 | \$11,375,000 | \-\$287,200 |
-| **Effective Rate** | **23.8%** | **23.2%** | **\-0.6 pts** |
+| **Effective Rate** | **23.8%** | **23.2%** | **\-0.6%** |
 
  
 
@@ -3150,7 +3153,7 @@ These case studies show detailed before/after calculations for representative ta
 | Lifetime Exemption | N/A | \-\$1,500,000 | — |
 | Taxable Gain | \$490,000,000 | \$488,500,000 | — |
 | Capital Gains Tax | \$116,620,000 | \$121,350,000 | \+\$4,730,000 |
-| **Effective Rate** | **23.8%** | **24.8%** | **\+1.0 pts** |
+| **Effective Rate** | **23.8%** | **24.8%** | **\+1.0%** |
 
  
 
@@ -3217,23 +3220,23 @@ These case studies show detailed before/after calculations for representative ta
 
 | Case Study | Income/Gain | Old Rate | New Rate | Change |
 | ----- | ----- | ----- | ----- | ----- |
-| Retail Worker | \$35K | 14.1% | 11.4% | **\-2.7 pts** |
-| Gig Worker | \$45K | 21.0% | 19.7% | **\-1.3 pts** |
-| Teacher | \$55K | 15.3% | 10.9% | **\-4.4 pts** |
-| Young Professional | \$60K | 16.3% | 14.2% | **\-2.1 pts** |
-| Nurse \+ 1 Kid | \$75K | 14.0% | 12.7% | **\-1.3 pts** |
-| Self-Employed | \$120K | 26.3% | 27.6% | **\+1.3 pts** |
-| Family \+ 3 Kids | \$140K | 12.3% | 10.4% | **\-1.9 pts** |
-| Small Biz \+ 2 Kids | \$180K | 23.1% | 23.0% | **\-0.1 pts** |
-| DINKs | \$200K | 19.6% | 18.5% | **\-1.1 pts** |
-| High Earner | \$600K | 29.4% | 33.9% | **\+4.5 pts** |
-| Homeowner | \$400K gain | 5.6% | 0% | **\-5.6 pts** |
-| Retiree | \$1.2M gain | 8.7% | 0% | **\-8.7 pts** |
-| Small Founder | \$3M exit | 19.8% | 7.2% | **\-12.6 pts** |
-| Mid Founder | \$10M exit | 19.9% | 16.1% | **\-3.8 pts** |
-| Large Founder | \$50M exit | 23.8% | 23.2% | **\-0.6 pts** |
-| Mega Exit | \$500M exit | 23.8% | 24.8% | **\+1.0 pts** |
-| Inheritance | \$20M estate | 0% | 37.5% | **\+37.5 pts** |
+| Retail Worker | \$35K | 14.1% | 11.4% | **\-2.7%** |
+| Gig Worker | \$45K | 21.0% | 19.7% | **\-1.3%** |
+| Teacher | \$55K | 15.3% | 10.9% | **\-4.4%** |
+| Young Professional | \$60K | 16.3% | 14.2% | **\-2.1%** |
+| Nurse \+ 1 Kid | \$75K | 14.0% | 12.7% | **\-1.3%** |
+| Self-Employed | \$120K | 26.3% | 27.6% | **\+1.3%** |
+| Family \+ 3 Kids | \$140K | 12.3% | 10.4% | **\-1.9%** |
+| Small Biz \+ 2 Kids | \$180K | 23.1% | 23.0% | **\-0.1%** |
+| DINKs | \$200K | 19.6% | 18.5% | **\-1.1%** |
+| High Earner | \$600K | 29.4% | 33.9% | **\+4.5%** |
+| Homeowner | \$400K gain | 5.6% | 0% | **\-5.6%** |
+| Retiree | \$1.2M gain | 8.7% | 0% | **\-8.7%** |
+| Small Founder | \$3M exit | 19.8% | 7.2% | **\-12.6%** |
+| Mid Founder | \$10M exit | 19.9% | 16.1% | **\-3.8%** |
+| Large Founder | \$50M exit | 23.8% | 23.2% | **\-0.6%** |
+| Mega Exit | \$500M exit | 23.8% | 24.8% | **\+1.0%** |
+| Inheritance | \$20M estate | 0% | 37.5% | **\+37.5%** |
 
 **The Pattern:**
 
@@ -3244,8 +3247,6 @@ These case studies show detailed before/after calculations for representative ta
 * Capital gains under \$1.5M: Tax-free (lifetime exemption)  
 * Large exits: About the same (no QSBS, but simpler)  
 * Inheritance: Pay much more (step-up eliminated)
-
-The Borrowing Rule prevents the "Buy, Borrow, Die" strategy by treating loans against appreciated assets (above cost basis) as taxable events. Here's how it works in practice.
 
 ---
 
@@ -3483,7 +3484,7 @@ The Borrowing Rule prevents the "Buy, Borrow, Die" strategy by treating loans ag
 | Self-Employment Tax (15.3%) | \$38,250 | \$20,000 | -\$18,250 |
 | Federal Income Tax | \$38,456 | \$53,000 | +\$14,544 |
 | **Total Federal Tax** | **\$76,706** | **\$73,000** | **-\$3,706** |
-| **Effective Rate** | **30.7%** | **29.2%** | **-1.5 pts** |
+| **Effective Rate** | **30.7%** | **29.2%** | **-1.5%** |
 
 *Fair & Simple: ESNC (8%) \= \$20K. Income tax at ordinary brackets (no QBI) \= \$53K. Total \= \$73K.*
 
@@ -3514,7 +3515,7 @@ The Borrowing Rule prevents the "Buy, Borrow, Die" strategy by treating loans ag
 | Federal Income Tax | \$52,000 | \$98,000 | +\$46,000 |
 | Child Tax Credit | -\$4,000 | -\$5,000 | -\$1,000 |
 | **Total Federal Tax** | **\$71,000** | **\$105,000** | **+\$34,000** |
-| **Effective Rate** | **14.2%** | **21.0%** | **+6.8 pts** |
+| **Effective Rate** | **14.2%** | **21.0%** | **+6.8%** |
 
 *Fair & Simple: ESNC (8%) on \$150K salary \= \$12K. Distributions avoid ESNC (same as current). Income tax at ordinary brackets (no QBI) \= \$98K. Less CTC \$5K \= \$105K total.*
 
@@ -3544,7 +3545,7 @@ The Borrowing Rule prevents the "Buy, Borrow, Die" strategy by treating loans ag
 | Payroll Tax (salary only) | \$18,000 | \$9,600 | -\$8,400 |
 | Federal Income Tax | \$52,000 | \$88,000 | +\$36,000 |
 | **Total Federal Tax** | **\$70,000** | **\$97,600** | **+\$27,600** |
-| **Effective Rate** | **20.0%** | **27.9%** | **+7.9 pts** |
+| **Effective Rate** | **20.0%** | **27.9%** | **+7.9%** |
 
 *Fair & Simple: ESNC (8%) on \$120K salary \= \$9.6K. Distributions avoid ESNC (same as current). Income tax at ordinary brackets (no QBI) \= \$88K. Total \= \$97.6K.*
 
@@ -3575,7 +3576,7 @@ The Borrowing Rule prevents the "Buy, Borrow, Die" strategy by treating loans ag
 | Capital Gains Tax | \$209,300 | \$0 | -\$209,300 |
 | Depreciation Recapture | \$100,000 | \$100,000 | — |
 | **Total Tax** | **\$309,300** | **\$100,000** | **-\$209,300** |
-| **Effective Rate** | **14.1%** | **4.5%** | **-9.6 pts** |
+| **Effective Rate** | **14.1%** | **4.5%** | **-9.6%** |
 
 **The Garcias' take:** "The lifetime exemption covers our entire gain. We only pay depreciation recapture—same as current law. We save over \$200K."
 
@@ -3600,7 +3601,7 @@ The Borrowing Rule prevents the "Buy, Borrow, Die" strategy by treating loans ag
 | Lifetime Exemption | N/A | -\$1,500,000 | — |
 | Taxable Gain | \$7,000,000 | \$5,500,000 | -\$1,500,000 |
 | Capital Gains Tax | \$1,316,300 | \$1,025,000 | -\$291,300 |
-| **Effective Rate** | **18.8%** | **14.6%** | **-4.2 pts** |
+| **Effective Rate** | **18.8%** | **14.6%** | **-4.2%** |
 
 *Fair & Simple: \$0 on \$1.5M + 15% × \$1.5M + 20% × \$4M \= \$0 + \$225K + \$800K \= \$1,025K*
 
@@ -3631,7 +3632,7 @@ The Borrowing Rule prevents the "Buy, Borrow, Die" strategy by treating loans ag
 | Federal Income Tax | \$42,000 | \$67,000 | +\$25,000 |
 | Child Tax Credit | -\$4,000 | -\$5,000 | -\$1,000 |
 | **Total Federal Tax** | **\$61,000** | **\$62,000** | **+\$1,000** |
-| **Effective Rate** | **20.3%** | **20.7%** | **+0.4 pts** |
+| **Effective Rate** | **20.3%** | **20.7%** | **+0.4%** |
 
 *Fair & Simple income tax (MFJ): 5% × \$40K + 15% × \$80K + 27% × \$180K \= \$2K + \$12K + \$48.6K \= \$62.6K*
 
@@ -3660,7 +3661,7 @@ The Borrowing Rule prevents the "Buy, Borrow, Die" strategy by treating loans ag
 | Federal Income Tax | \$95,000 | \$154,000 | +\$59,000 |
 | Child Tax Credit | -\$0 | -\$7,500 | -\$7,500 |
 | **Total Federal Tax** | **\$119,000** | **\$146,500** | **+\$27,500** |
-| **Effective Rate** | **23.8%** | **29.3%** | **+5.5 pts** |
+| **Effective Rate** | **23.8%** | **29.3%** | **+5.5%** |
 
 *Fair & Simple income tax (MFJ): \$2K + \$12K + \$48.6K + \$76K + \$20K \= \$158.6K - CTC \$7.5K \= \$151K*
 
@@ -3684,7 +3685,7 @@ The Borrowing Rule prevents the "Buy, Borrow, Die" strategy by treating loans ag
 | Federal Income Tax | \$125,000 | \$191,000 | +\$66,000 |
 | Child Tax Credit | -\$0 | -\$5,000 | -\$5,000 |
 | **Total Federal Tax** | **\$149,000** | **\$186,000** | **+\$37,000** |
-| **Effective Rate** | **24.8%** | **31.0%** | **+6.2 pts** |
+| **Effective Rate** | **24.8%** | **31.0%** | **+6.2%** |
 
 *Fair & Simple income tax (MFJ): \$2K + \$12K + \$48.6K + \$76K + \$56K \= \$194.6K - CTC \$5K \= \$189.6K*
 
@@ -3713,7 +3714,7 @@ The Borrowing Rule prevents the "Buy, Borrow, Die" strategy by treating loans ag
 | Federal Income Tax | \$43,000 | \$99,000 | +\$56,000 |
 | Child Tax Credit | -\$4,000 | -\$5,000 | -\$1,000 |
 | **Total Federal Tax** | **\$66,300** | **\$100,400** | **+\$34,100** |
-| **Effective Rate** | **16.6%** | **25.1%** | **+8.5 pts** |
+| **Effective Rate** | **16.6%** | **25.1%** | **+8.5%** |
 
 *Fair & Simple:*
 - *Sarah's ESNC: 8% × \$80K salary \= \$6,400 (distributions avoid ESNC)*
