@@ -28,11 +28,13 @@
 - [Q9: Buy-borrow-die loophole](#q9-how-does-the-act-close-the-buy-borrow-die-loophole)
 - [Q10: What happens at death?](#q10-what-happens-when-someone-dies)
 - [Q11: Estate planning loopholes](#q11-how-does-this-close-estate-planning-loopholes-like-grats-dynasty-trusts-and-valuation-discounts)
+- [Q12: Trusts](#q12-how-do-trusts-work-under-this-plan-can-i-use-them-to-avoid-paying-tax-forever)
 
 **Part 4: Impact on Innovation & Investment**
-- [Q12: Primary residence exclusion](#q12-doesnt-eliminating-the-primary-residence-exclusion-hurt-homeowners)
-- [Q13: Carried interest](#q13-why-no-special-carried-interest-rule)
-- [Q14: Entrepreneurs & innovators](#q14-will-this-punish-entrepreneurs-and-innovators)
+- [Q13: Primary residence exclusion](#q13-doesnt-eliminating-the-primary-residence-exclusion-hurt-homeowners)
+- [Q14: Carried interest](#q14-why-no-special-carried-interest-rule)
+- [Q15: Entrepreneurs & innovators](#q15-will-this-punish-entrepreneurs-and-innovators)
+- [Q16: Expatriation](#q16-what-about-expatriation-and-capital-flight)
 - [Q15: Expatriation & capital flight](#q15-what-about-expatriation-and-capital-flight)
 
 
@@ -955,10 +957,79 @@ The Fair & Simple Tax Act doesn't ban these techniques. It just says: **at some 
 
 Typical families are completely protected. Ultra-wealthy families can still transfer wealth — they just can't transfer billions tax-free across 10 generations using legal engineering.
 
+## **Q12: How do trusts work under this plan? Can I use them to avoid paying tax forever?**
+
+**No. Trusts can still be used for estate planning, liability protection, and managing beneficiary distribution — but not for tax deferral. Income retained in a trust is taxed to the trust at the top marginal rate (45%) in the year earned. Distributions to beneficiaries are taxed as ordinary income (or capital gains if the trust distributes capital gains). The lifetime capital gains exemption is per-person and doesn't transfer through trusts or multiply across generations.**
+
+The current system allows wealthy families to use trusts for permanent tax deferral:
+
+* **Dynasty trusts** accumulate income and never distribute, deferring tax indefinitely
+* **Grantor Retained Annuity Trusts (GRATs)** transfer appreciating assets tax-free (covered in Q11)
+* **Intentionally Defective Grantor Trusts (IDGTs)** use below-market loans to shift wealth
+* **Perpetual trusts in some states** (like Alaska, Nevada) let assets grow tax-free across generations
+
+Fair & Simple eliminates the tax deferral game without disrupting legitimate trust uses.
+
+### **How trusts are taxed under Fair & Simple**
+
+**For income retained by the trust:**
+* **Income stays in trust** = Trust pays 45% tax on that income in the year earned
+* No multi-generational deferral, no accumulation strategy
+
+**For distributions to beneficiaries:**
+* **Ordinary income distributed** = Beneficiary pays ordinary income tax at their rate
+* **Capital gains distributed** = Beneficiary uses their portion of lifetime exemption, then pays capital gains rates
+* **Principal (non-income) distributed** = Tax-free (it's already been taxed at some point)
+
+**For the lifetime capital gains exemption:**
+* Each person gets one $1.5M exemption (couples $3M), usable any time during life or at death
+* **Exemption does not transfer through trusts or multiply across family members**
+* If you use your $1.5M exemption during life, your kids get their own fresh $1.5M at their death/during their life
+* No dynasty planning, no exemption multiplication
+
+### **Example: Family Accumulation Trust**
+
+**Current Law:**
+* You create a trust, fund it with $10M in stocks
+* Trust accumulates dividends and capital gains (doesn't distribute)
+* Over 30 years: Grows to $30M, gains $20M unrealized
+* At your death: Heirs get step-up basis, inherit $30M tax-free
+* **Tax on $20M of gains: $0**
+
+**Under Fair & Simple:**
+* You create a trust, fund it with $10M in stocks
+* Trust earns $1M in annual dividends and gains
+* Trust pays 45% tax ($450K) on that income each year
+* Over 30 years: Trust pays ~\$13.5M in accumulated income tax
+* Remaining growth ($16.5M) still taxable to heirs when distributed
+* **Tax on $20M of gains: ~$13.5M + ongoing tax on distributions**
+
+**Result:** Trust is still useful for management and liability protection, but not for tax deferral. Wealthy families can't park assets in a trust and avoid tax forever.
+
+### **Why this closes the loophole**
+
+**Current system:** Defer income in trust, never distribute, heirs get step-up basis, multigenerational wealth compounds tax-free.
+
+**Fair & Simple:** 
+1. Deferral is expensive (45% annual tax on retained income)
+2. Step-up basis is gone (exit = realization)
+3. Exemption doesn't multiply (one per person, not per dynasty)
+
+**Result:** Trusts are still valuable for non-tax reasons (management, creditor protection, probate avoidance), but they can't be used as permanent tax vehicles.
+
+### **What trusts can still do**
+
+* **Estate planning:** Distribute to heirs over time, control beneficiary access
+* **Creditor protection:** Protect assets from beneficiary's creditors/litigation
+* **Spendthrift provisions:** Keep beneficiary from squandering assets
+* **Tax-efficient distribution:** Distribute to lower-bracket beneficiaries, but this is ordinary tax planning, not deferral
+
+Basically: Use a trust if you want to manage how/when heirs get money, or protect assets. Don't use a trust expecting to avoid tax — that's gone.
+
 # Part 4: Impact on Innovation & Investment
 
 
-## **Q12: Doesn’t eliminating the primary residence exclusion hurt homeowners?**
+## **Q13: Doesn’t eliminating the primary residence exclusion hurt homeowners?**
 
 **No. The lifetime capital gains exemption protects most home sales — and treats homeowners more fairly over time.**
 
@@ -1002,7 +1073,7 @@ Unlike the current system, which privileges housing over other forms of saving, 
 
 **Bottom line:**  
 Most home sales remain tax-free. Families who move over time are protected. And the tax code treats homeowners and renters more fairly than it does today.
-## **Q13: Why no special carried interest rule?**
+## **Q14: Why no special carried interest rule?**
 
 Because the structure already closes it. At $100M+ in lifetime capital gains, the rate converges to 45% — the same as the top ordinary income rate — so there is no benefit to re-labeling labor income as capital gains at extreme levels.
 
@@ -1035,7 +1106,7 @@ Effective rate lands in the **low 40s%** — roughly double today's ~23.8% on ca
 
 **Bottom line:** The convergence tier closes carried interest by design — no special rule, no new loopholes, no industry carve-outs.
 
-## **Q14: Will this punish entrepreneurs and innovators?**
+## **Q15: Will this punish entrepreneurs and innovators?**
 
 **No. The Fair & Simple Tax Act is designed to reward long-term innovation, protect the startup ecosystem, and eliminate loopholes that distort incentives.**
 
@@ -1127,7 +1198,7 @@ Breakthroughs happen in ecosystems — universities, infrastructure, talent pipe
 The Fair & Simple Tax Act protects ambition, rewards risk-taking, and preserves America’s innovation edge — while ensuring that the system works for decades rather than depending on fragile loopholes.
 
 
-## **Q15: What about expatriation and capital flight?**
+## **Q16: What about expatriation and capital flight?**
 
 **Renouncing citizenship triggers the same rule as death: a mark-to-market tax on all gains, with the lifetime exemption and progressive capital gains rates.**
 
@@ -1148,340 +1219,6 @@ The Fair & Simple Tax Act protects ambition, rewards risk-taking, and preserves 
 
 **Bottom line:** Departure is taxed as if assets were sold. Payment relief prevents fire sales, existing reporting makes evasion difficult, and the fiscal risk is limited.
 
-# **Part 4: Revenue and Fiscal Impact**
-
-## **Q21: How much does this cost, and how is it funded?**
-
-### **The Numbers**
-
-The American Tax Fairness Act generates **$265-400B in new annual revenue** on Day 1, making it revenue-positive even after funding expanded child benefits and simplification.
-
-**Revenue Sources (Annual):**
-
-| Source | Estimate |
-| :---- | :---- |
-| 45% top bracket ($1.5M+ Single / $3M+ MFJ) | $40-60B |
-| Capital gains: progressive rates above $1.5M exemption | $50-80B |
-| Stepped-up basis elimination (death = realization) | $75-100B |
-| Buy-borrow-die closure | $25-50B |
-| Estate tax reform ($14M → $5M exemption) | $50-65B |
-| QSBS elimination (universal $1.5M exemption) | $10-20B |
-| ROTH reforms (contribution cap, $2.5M freeze, death = realization) | $15-25B |
-| **Total New Revenue** | **$265-400B** |
-
-**Costs (Annual):**
-
-| Category | Estimate |
-| :---- | :---- |
-| AMT and NIIT elimination | $30-40B |
-| Family benefits ($4,000/child phased $120K–$400K, replaces 3 programs) | $20-30B net cost |
-| **Total Costs** | **$50-70B** |
-
-**Net Fiscal Impact: $200-310B revenue-positive annually**
-
-This positions the Act as not just fiscally sound, but as a genuine deficit reducer while simplifying taxes for ordinary Americans.
-
----
-
-### **Why not give annual operational tax breaks to business owners?**
-
-**We considered several approaches:**
-* Capital return on documented investment (complex, gameable)
-* First \$X per person as capital gains (creates W-2 vs. consultant arbitrage)
-* Minimum profit thresholds (arbitrary, doesn't help startups)
-
-**The problem:** Every operational tax break either:
-1. Creates new gaming opportunities (parking cash, reclassifying income)
-2. Favors wealthy investors over sweat equity founders
-3. Adds complexity that contradicts "Fair & Simple"
-
-**The solution: Reward entrepreneurship at exit, not annually**
-
-* During operations: All income is ordinary income (clean, simple, hard to game)
-* At sale: Full capital gains treatment with \$1.5M lifetime exemption
-* This rewards genuine business-building without creating new loopholes
-
-**Example — Sweat Equity Founder:**
-* Invests \$0 cash, builds consulting business over 10 years
-* Annual profit \$200K: Pays ordinary income tax each year
-* Year 10 exit: Sells for \$3M (basis \$0, gain \$3M)
-* Uses full \$1.5M exemption (pays \$0) + 15% on \$1.5M = \$225K tax
-* **After-tax proceeds: \$2.775M (92.5%)**
-
-That's the reward — you pay ordinary rates on operational cashflow, but when you cash out, you get preferential capital gains treatment. That's fair, simple, and hard to game.
-
-**Why this is fair:** Small business owner gets modest tax advantage for risk, but it's reasonable, not a loophole. And it applies equally whether you're a tech founder, doctor, lawyer, or store owner.
-
-**Example 4: Manufacturing Business (Real Estate Pass-Through)**
-
-**Situation:**
-* You invest \$500K in manufacturing equipment/facilities
-* Year 8 annual profit: \$800K
-* You're in 32% bracket
-
-**Tax calculation:**
-* Capital return: 15% × \$500K = \$75K (at capital gains rate)
-* Excess profit: \$800K - \$75K = \$725K (at ordinary income rate)
-* Tax: (\$75K × 20%) + (\$725K × 32%) = \$15K + \$232K = \$247K
-* **Effective rate: ~31%**
-* After-tax: \$553K
-
-**Depreciation and 1031 interaction:**
-* You also take depreciation deductions on equipment, which reduce ordinary income
-* This stacks with the capital return benefit
-* If you depreciate \$50K/year, ordinary income is reduced by that amount
-* **Result:** Capital return + depreciation deductions create real cash flow benefit for growing businesses
-
----
-
-### **Comparison: Pass-Through vs. C-Corp vs. Sole Proprietor**
-
-| Business Structure | Owner's \$200K Investment | Annual \$500K Profit | Tax Rate | After-Tax |
-| :---- | :---- | :---- | :---- | :---- |
-| **Pass-through (LLC/S-corp/Partnership)** | 15% capital return | \$500K = \$30K capital + \$470K ordinary | ~31% | ~\$345K |
-| **C-Corp** | Retained at 25% corp rate | \$500K corporate profit → \$375K dividend | 25% + 20% = 45% combined | ~\$275K |
-| **Sole Proprietor (W-2 equivalent)** | N/A | \$500K all ordinary | 40% | \$300K |
-| **Current law arbitrage (S-corp optimized)** | SE tax games | \$500K = \$150K W-2 + \$350K dist. | 15-18% | ~\$407-425K |
-
-**Key insights:**
-- **Pass-through is competitive** (saves ~\$45K vs. C-corp, ~\$45K vs. W-2)
-- **But not a free loophole** (current law arbitrage saves ~\$60-80K vs. Fair & Simple)
-- **Incentive is healthy:** Encourages business formation across all sectors without enabling aggressive tax avoidance
-
----
-
-### **Why pass-through receives preferential treatment (and other entities don't)**
-
-**Why does pass-through get a 15% capital return, but:**
-- **Not C-corps?** C-corps have the option to retain earnings at 25% (lower than ordinary rates), which is their capital retention mechanism. Owners who want preferential treatment can use C-corps, but they accept double taxation trade-off.
-- **Not real estate syndicators?** Real estate gets 1031 deferral specifically because housing is essential infrastructure. Pass-throughs don't get similar deferral.
-- **Not PE fund managers?** Carried interest is explicitly reclassified as ordinary income (compensation, not capital investment).
-
-**Why does pass-through deserve this?**
-
-Because documented capital investment by an active business owner creates real economic risk and value:
-
-1. **Personal liability** — Owner's personal net worth at risk if business fails
-2. **Opportunity cost** — Capital could have been invested in passive index funds (capital gains rates) but was deployed in risky business
-3. **Broad-based** — Applies to ALL business types (tech, manufacturing, retail, services, professional practices), not just wealthy entrepreneurs or specific industries
-4. **Time-limited** — Benefit expires after 10 years or at sale, forcing eventual realization
-
----
-
-### **Why the S-Corp election becomes irrelevant**
-
-**Current law benefit of S-corp election:**
-* Low W-2 salary + high distributions = save 3-5% in self-employment tax
-* Requires careful planning and IRS "reasonable salary" defense
-* Creates endless disputes and gaming
-
-**Under Fair & Simple:**
-* Both S-corp and LLC/Partnership get identical treatment: 8% ESNC on wages + distributions, then ordinary income
-* All profit is ordinary income regardless of entity choice
-* **S-corp election becomes irrelevant for tax purposes**
-* Owners choose entity structure for business reasons (liability, management, state law), not tax optimization
-
-**Result:** Massive simplification. Business formation decisions are driven by business logic, not tax arbitrage.
-
----
-
-### **Revenue impact**
-
-**Lower payroll tax burden, but higher income taxes:**
-
-* **Self-employed:** 15.3% SE tax → 8% ESNC = saves ~7.3%
-* **S-Corp owners:** Still follow reasonable compensation rules, but save 7.3% on wage portion
-* **QBI deduction eliminated:** Adds complexity offset (most businesses pay slightly more on income portion)
-
-**Net revenue: Roughly neutral**
-
-* Savings from lower payroll tax (~\$50B/year)
-* Offset by elimination of QBI deduction and closing minor arbitrage games (~\$50B/year)
-* **No significant revenue impact from pass-through changes**
-
-This reflects the policy choice: **We're simplifying the system without squeezing small business.**
-
----
-
-## **Q22: How does this plan handle income earned outside the U.S.?**
-
-**Simple answer: U.S. citizens and residents are taxed on worldwide income using the same rules as domestic income. Foreign earned income is ordinary income. Foreign business income follows pass-through rules. Foreign capital gains use the lifetime exemption. Foreign tax credit continues. GILTI, Subpart F, and PFIC complexity are eliminated.**
-
-The current system for international taxation is unnecessarily complex:
-
-* **GILTI (Global Intangible Low-Taxed Income)** — Attempts to tax foreign corporate profits at a minimum 10.5% rate, creating massive planning opportunities
-* **Subpart F** — Complicated rules that try to prevent deferral of certain foreign income
-* **PFIC (Passive Foreign Investment Company)** — Oppressive rules on foreign mutual funds and corporations
-* **Foreign Tax Credit** — Legitimate mechanism to avoid double taxation, but operates alongside the above complexity
-* **Foreign Earned Income Exclusion (FEIE)** — Allows \$120K+ of foreign wages to escape U.S. tax if you live abroad
-
-**Problems:** These rules are so complex that they create tax planning opportunities instead of closing them. They discourage legitimate foreign investment and create compliance nightmares for both individuals and multinational corporations.
-
-### **How foreign income works under Fair & Simple**
-
-**Same rules everywhere — apply the same tax code:**
-
-1. **Foreign earned income** — Taxed as ordinary income at regular brackets (5%, 15%, 27%, 38%, 40%, 45%)
-2. **Foreign business income** — Follows pass-through rules (8% ESNC for self-employment income, ordinary income rates for business profit)
-3. **Foreign capital gains** — Uses lifetime exemption (\$1.5M per person), progressive rates (0%, 15%, 20%, 27%, 32%)
-4. **Foreign dividends** — Qualified dividends taxed at capital gains rates (don't use exemption), ordinary dividends as ordinary income
-5. **Foreign tax credit** — Continues (credit for foreign taxes paid to avoid double taxation)
-6. **GILTI, Subpart F, PFIC** — Eliminated entirely (no special rules for foreign corporations or investors)
-
-**Key principle:** A dollar earned in London, São Paulo, or Tokyo is taxed the same way as a dollar earned in New York. No preferences, no deferral, no special categories.
-
-### **What this eliminates**
-
-**GILTI (the biggest complexity):**
-* **Current:** Foreign corporations earning over 10.5% on intangible assets are subject to GILTI taxation
-* **Under Fair & Simple:** Foreign corporations are not subject to U.S. tax as entities (they pay 25% corporate tax in their home country). Their dividends paid to U.S. owners are taxed as capital gains (0-32%) when received, consistent with all other dividends.
-
-**Subpart F (deferred income antideferal):**
-* **Current:** Certain foreign income (like interest, dividends, royalties) must be included in taxable income in the current year, even if not distributed
-* **Under Fair & Simple:** Foreign business income flows through the same way as domestic business income. For pass-through businesses, all business profit is ordinary income whether earned domestically or abroad. For corporations, dividends are taxed when received.
-
-**PFIC (punishment for foreign funds):**
-* **Current:** U.S. persons investing in foreign mutual funds face mark-to-market taxation and complicated inclusion rules
-* **Under Fair & Simple:** Foreign investments in mutual funds/ETFs are taxed the same as domestic ones. Annual gains inside the fund are not taxed (only when you sell), gains on the sale are capital gains using the lifetime exemption.
-
-**FEIE (foreign earned income exclusion):**
-* **Current:** If you live abroad, you can exclude \~\$120K of foreign wages from U.S. tax
-* **Under Fair & Simple:** You're taxed on worldwide income regardless of where you live. BUT ordinary brackets are lower (5%, 15%, 27%, 38%, 40%, 45% max), and the tax is applied consistently worldwide.
-
-### **Why this approach wins**
-
-**Clarity:** Same rule everywhere. No special categories, no deferral games, no planning opportunities disguised as "legitimate tax positions."
-
-**Competitiveness:** U.S. businesses competing abroad don't face punitive GILTI rates (currently 10.5%, effectively higher with add-backs). They face the same 25% corporate rate as their foreign competitors.
-
-**Fairness:** A teacher earning \$80K in Chicago pays the same tax as a teacher earning \$80K in London. An investor in Apple stock pays the same tax whether Apple earns profit domestically or abroad (and receives a dividend).
-
-**Compliance:** Foreign tax credit still works. If you pay \$20K in tax to Germany, you can credit it against your U.S. tax bill (up to your U.S. tax liability). This is legitimate and continues.
-
-### **Example: U.S. Expat Working in the UK**
-
-**Situation:** You're a U.S. citizen earning \$200K salary in London, paying \$50K UK tax
-
-**Current law (with FEIE):**
-* UK tax: \$50K
-* U.S. tax: \$0 (covered by FEIE exclusion)
-* **Total tax: \$50K (25% effective rate)**
-
-**Under Fair & Simple:**
-* UK tax: \$50K
-* U.S. tax: \$200K at ordinary brackets = \$53K
-* Foreign Tax Credit: \-\$50K (offset against U.S. tax)
-* **Net U.S. tax: \$3K**
-* **Total tax: \$53K (26.5% effective rate)**
-
-**Analysis:** Slightly higher tax than FEIE, but: (a) UK tax is already quite high, (b) no more games about where you're "tax resident," (c) you get a real credit for foreign taxes paid, (d) simpler.
-
-**For high earners it's roughly equal,** for lower earners it might be slightly more. But the rule is the same everywhere, and there's no planning involved.
-
-### **Example: U.S. Investor with Foreign Holdings**
-
-**Situation:** You own shares in a UK company and receive dividends; company earns \$100K profit, pays you \$30K dividend
-
-**Current law:**
-* GILTI inclusion: Complex — depends on whether it's Subpart F income, whether it's a CFC, whether you have other foreign income
-* Foreign Tax Credit: Required to navigate
-* Possible deferral: If structured as holding company, profit might not be taxed until you sell
-
-**Under Fair & Simple:**
-* Foreign company earns \$100K: Taxed at 25% in UK (normal UK corporation tax)
-* Pays you \$30K dividend: You receive it as foreign dividend income
-* U.S. tax: \$30K × 0% (if within lifetime exemption for qualified dividends) or 15-32% (if above exemption), per regular rules
-* Foreign Tax Credit: UK has already taxed the corporate profit at 25%; this is your credit against dividend tax
-
-**Analysis:** Much simpler. You're taxed on what you actually receive (the dividend), not on theoretical deferred income.
-
-### **Revenue impact**
-
-**International tax reform is broadly revenue-neutral:**
-
-* **GILTI elimination:** Loses revenue (currently raises \~\$10-15B/year), offset by 25% corporate rate increase (raises more revenue overall on foreign subsidiaries)
-* **Subpart F elimination:** Simplifies compliance but not major revenue change
-* **FEIE elimination:** Small revenue gain (\~\$5-10B/year from high-earning expats)
-* **PFIC simplification:** Compliance benefit (people actually comply), minimal revenue impact
-
-**Net:** Roughly breaks even. The real benefit is compliance, simplicity, and end to "tax planning" strategies that don't reflect economic reality.
-
-### **International competitiveness**
-
-U.S. businesses no longer face GILTI penalties when earning abroad. They compete on level footing with foreign businesses paying their home country's corporate rate (typically 20-25%). This makes U.S. investment and business operations more competitive globally.
-
----
-
-## **Q23: How do trusts work under this plan? Can I use them to avoid paying tax forever?**
-
-**No. Trusts can still be used for estate planning, liability protection, and managing beneficiary distribution — but not for tax deferral. Income retained in a trust is taxed to the trust at the top marginal rate (45%) in the year earned. Distributions to beneficiaries are taxed as ordinary income (or capital gains if the trust distributes capital gains). The lifetime capital gains exemption is per-person and doesn't transfer through trusts or multiply across generations.**
-
-The current system allows wealthy families to use trusts for permanent tax deferral:
-
-* **Dynasty trusts** accumulate income and never distribute, deferring tax indefinitely
-* **Grantor Retained Annuity Trusts (GRATs)** transfer appreciating assets tax-free (covered in Q16)
-* **Intentionally Defective Grantor Trusts (IDGTs)** use below-market loans to shift wealth
-* **Perpetual trusts in some states** (like Alaska, Nevada) let assets grow tax-free across generations
-
-Fair & Simple eliminates the tax deferral game without disrupting legitimate trust uses.
-
-### **How trusts are taxed under Fair & Simple**
-
-**For income retained by the trust:**
-* **Income stays in trust** = Trust pays 45% tax on that income in the year earned
-* No multi-generational deferral, no accumulation strategy
-
-**For distributions to beneficiaries:**
-* **Ordinary income distributed** = Beneficiary pays ordinary income tax at their rate
-* **Capital gains distributed** = Beneficiary uses their portion of lifetime exemption, then pays capital gains rates
-* **Principal (non-income) distributed** = Tax-free (it's already been taxed at some point)
-
-**For the lifetime capital gains exemption:**
-* Each person gets one \$1.5M exemption (couples \$3M), usable any time during life or at death
-* **Exemption does not transfer through trusts or multiply across family members**
-* If you use your \$1.5M exemption during life, your kids get their own fresh \$1.5M at their death/during their life
-* No dynasty planning, no exemption multiplication
-
-### **Example: Family Accumulation Trust**
-
-**Current Law:**
-* You create a trust, fund it with \$10M in stocks
-* Trust accumulates dividends and capital gains (doesn't distribute)
-* Over 30 years: Grows to \$30M, gains \$20M unrealized
-* At your death: Heirs get step-up basis, inherit \$30M tax-free
-* **Tax on \$20M of gains: \$0**
-
-**Under Fair & Simple:**
-* You create a trust, fund it with \$10M in stocks
-* Trust earns \$1M in annual dividends and gains
-* Trust pays 45% tax (\$450K) on that income each year
-* Over 30 years: Trust pays \~\$13.5M in accumulated income tax
-* Remaining growth (\$16.5M) still taxable to heirs when distributed
-* **Tax on \$20M of gains: \~\$13.5M + ongoing tax on distributions**
-
-**Result:** Trust is still useful for management and liability protection, but not for tax deferral. Wealthy families can't park assets in a trust and avoid tax forever.
-
-### **Why this closes the loophole**
-
-**Current system:** Defer income in trust, never distribute, heirs get step-up basis, multigenerational wealth compounds tax-free.
-
-**Fair & Simple:** 
-1. Deferral is expensive (45% annual tax on retained income)
-2. Step-up basis is gone (exit = realization)
-3. Exemption doesn't multiply (one per person, not per dynasty)
-
-**Result:** Trusts are still valuable for non-tax reasons (management, creditor protection, probate avoidance), but they can't be used as permanent tax vehicles.
-
-### **What trusts can still do**
-
-* **Estate planning:** Distribute to heirs over time, control beneficiary access
-* **Creditor protection:** Protect assets from beneficiary's creditors/litigation
-* **Spendthrift provisions:** Keep beneficiary from squandering assets
-* **Tax-efficient distribution:** Distribute to lower-bracket beneficiaries, but this is ordinary tax planning, not deferral
-
-Basically: Use a trust if you want to manage how/when heirs get money, or protect assets. Don't use a trust expecting to avoid tax — that's gone.
-
----
 
 ## **Appendix A: Revenue Model**
 
