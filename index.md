@@ -1,10 +1,15 @@
 # **The Fair & Simple Tax Project**
 ## **Act 1: The American Tax Fairness Act**
 
-***Amazon-style PR/FAQ proposing the first phase of a comprehensive plan to simplify the U.S. federal tax code.***
+***
+This document is intentionally written in an Amazon-style PR-FAQ format by [Matt Sly](https://wwww.mattsly.com). I spent much of my career in technology and product development, where this format is commonly used to present complex ideas, establish clear design tenets, and make assumptions and tradeoffs explicit.
+
+I am not a career policy professional. I’m a software entrepreneur approaching the U.S. tax code as a product that has accumulated complexity over decades without a clear owner. My goal is to help “refactor” the tax code by simplifying where possible, reducing the hidden costs of complexity and edge cases, and making fiscal tradeoffs legible to both policymakers and the public.
+
+What follows is a concrete proposal, written to invite critique.
+***
 
 ---
-
 
 ## **Quick Navigation**
 
@@ -35,6 +40,8 @@
 - [Q14: Carried interest](#q14-why-no-special-carried-interest-rule)
 - [Q15: Entrepreneurs & innovators](#q15-will-this-punish-entrepreneurs-and-innovators)
 - [Q16: Expatriation](#q16-what-about-expatriation-and-capital-flight)
+- [Q17: What is not included?](#q17-what-is-not-included-in-this-act)
+- [Q18: Why now?](#q18-why-now)
 
 **Appendices**
 - [Appendix A: Revenue Model](#appendix-a-revenue-model)
@@ -81,7 +88,7 @@
 
 ## **Q1: What does the American Tax Fairness Act actually change?**
 
-The Act closes the largest loopholes used by ultra-wealthy families while simplifying taxes for everyone else.
+For most taxpayers, filing stays familiar but becomes fairer and simpler, while the largest loopholes used by ultra-wealthy families are closed.
 
 | **What Changes** | **Why** | **Fiscal Impact** |
 | :---- | :---- | :---- |
@@ -93,7 +100,7 @@ The Act closes the largest loopholes used by ultra-wealthy families while simpli
 | Buy-borrow-die closed [(details in Q9)](#q9-how-does-the-act-close-the-buy-borrow-die-loophole) | Climb, Durability | Raises $25–50B |
 | QSBS eliminated; universal $1.5M exemption for all [(details in Q15)](#q15-will-this-punish-entrepreneurs-and-innovators) | Simplicity, Climb | Raises $10–20B |
 | **FAMILY BENEFITS** | | |
-| $4,000/child; full benefit <$120K, phases to $0 at $400K [(details in Q7)](#q7-what-is-the-child-tax-credit-under-this-plan-and-how-is-it-different-from-today) | Simplicity, Climb | Costs $20–30B |
+| $4,000/child (max 3), fully refundable; phase-out starts at $150K married / $100K single + $25K per child (cap +$75K), ends at $500K married / $300K single [(details in Q7)](#q7-what-is-the-child-tax-credit-under-this-plan-and-how-is-it-different-from-today) | Simplicity, Climb | Costs $20–30B |
 | **ESTATES** | | |
 | Estate exemption: $14M → $5M per person ($10M couples) [(details in Q10)](#q10-what-happens-when-someone-dies) | Climb, Durability | Raises $50–65B |
 | Trust income taxed annually; no exemption stacking via dynasty trusts [(details in Q12)](#q12-how-do-trusts-work-under-this-plan-can-i-use-them-to-avoid-paying-tax-forever) | Climb, Durability | Base-protecting (eliminates multigenerational deferral) |
@@ -106,7 +113,7 @@ The Act closes the largest loopholes used by ultra-wealthy families while simpli
 
 ## **Q2: How much simpler is this really?**
 
-**ATFA simplifies the code by replacing narrow carve-outs with universal rules.**
+**For typical filers, this means fewer hidden rules and a system that’s easier to understand. ATFA simplifies the code by replacing narrow carve-outs with universal rules.**
 
 The current system’s complexity is a feature for those who can exploit it. ATFA targets the highest-value avoidance strategies:
 
@@ -131,8 +138,10 @@ For typical filers, nothing changes structurally—you still file once a year wi
 
 ## **Q3: Who benefits and who pays more?**
 
+For most families, taxes go down or stay flat; the increases are concentrated at the very top.
+
 * **Working and middle-class families:** pay less  
-* **Upper-middle-class families under \$400K:** protected from increases  
+* **Upper-middle-class families below the phase-out ceiling:** protected from increases  
 * **Extreme wealth:** pays more, through broader bases and higher top-end rates  
 * **Everyone:** saves time and money on compliance
 
@@ -149,7 +158,7 @@ A nurse or teacher with kids saves money through the child benefit. A small busi
 
 ## **Q4: How far does this go toward a responsible federal budget?**
 
-The American Tax Fairness Act is **revenue-positive from Day 1**:
+For taxpayers, this means no broad tax increase and an immediate deficit impact; the American Tax Fairness Act is **revenue-positive from Day 1**:
 
 * Adding 45% top bracket for $1.5M+ earners: +$40-60B annually
 * Closing stepped-up basis loophole (death = realization event): +$75-100B annually
@@ -174,7 +183,7 @@ This closes roughly 15-25% of the deficit gap. The remainder requires additional
 
 ## **Q5: How do the new income tax brackets work?**
 
-ATFA keeps income tax brackets close to current law, eliminates the AMT/NIIT, and adds a 45% top bracket for very high earners.
+For most earners, brackets stay essentially the same and filing is simpler because AMT/NIIT disappear; only very high earners see a new 45% bracket.
 
 **Income tax bracket thresholds (indexed annually for inflation)**
 
@@ -195,7 +204,7 @@ Phase 1 keeps brackets stable while closing loopholes; broader bracket consolida
 
 ## **Q6: How are capital gains, dividends, and investment income taxed?**
 
-ATFA sets capital gains rates by lifetime cumulative gains to reward early saving and ensure extreme wealth does not pay lower rates than labor. **At $100M+ in lifetime gains, capital gains rates converge with ordinary income (45%).**
+For most investors, the first \$1.5M of lifetime gains are tax-free and long-term holdings are still rewarded. ATFA sets capital gains rates by lifetime cumulative gains to ensure extreme wealth does not pay lower rates than labor. **At $100M+ in lifetime gains, capital gains rates converge with ordinary income (45%).**
 
 ### **Capital Gains (Asset Appreciation)**
 
@@ -215,6 +224,8 @@ Key rules:
 * The exemption is **\$1.5M per person** (married couples can combine for **\$3M**)  
 * The exemption applies across all assets — once used, it is gone  
 * Lifetime gains tracking starts at enactment; only post-enactment gains count
+
+The lifetime exemption is indexed to inflation. Capital losses can offset gains but do not replenish the exemption. The exemption is per individual and becomes portable prospectively upon marriage; it does not retroactively pool pre-marriage gains.
 
 This structure protects ordinary wealth-building while ensuring very large gains contribute more.
 
@@ -240,18 +251,35 @@ This structure protects ordinary wealth-building while ensuring very large gains
 
 ## **Q7: What is the Child Tax Credit under this plan, and how is it different from today?**
 
-The Act replaces the CTC, EITC, and childcare credit with one universal benefit.
+For families, this means a simple, predictable \$4,000-per-child benefit with no work tests or cliffs. The Act replaces the CTC, EITC, and childcare credit with one universal benefit.
 
-### **Universal \$4,000 per Child**
+### **Core structure**
 
-* **\$4,000 per child per year** (full benefit under \$120K)
-* **Linear phase-out** — reduces from \$120K–\$400K, reaches \$0 at \$400K+
-* **Fully refundable** — no itemization, receipts, or childcare verification
+* **\$4,000 per child per year**, **up to 3 children per household**
+* **Fully refundable**
+* **No work tests, cliffs, or category-specific rules**
 
-**Phase-out formula:**
-- Income ≤ \$120K: Full \$4K per child
-- \$120K < Income < \$400K: (Kids × \$4K) × [1 − (Income − \$120K) / \$280K]
-- Income ≥ \$400K: \$0
+### **Phase-out design (household-level)**
+
+* **Starts later for families with more children, capped at 3**
+  * **Married:** \$150K + \$25K per child (max +\$75K)
+  * **Single:** \$100K + \$25K per child (max +\$75K)
+* **Ends at fixed income levels:** \$500K married / \$300K single
+* **Linear, smooth phase-out**
+
+**Phase-out formula (for 1–3 kids):**
+- Benefit = \$4K × Kids (cap at 3)
+- Start = base threshold above; End = \$500K married / \$300K single
+- If Income ≤ Start: full benefit
+- If Start < Income < End: Benefit × [1 − (Income − Start) / (End − Start)]
+- If Income ≥ End: \$0
+
+### **Divorced or shared custody**
+
+* **Default:** credit goes to the custodial parent (more nights)
+* **50/50 custody:** parents may **elect to split** the credit for that child (e.g., 50/50)
+* **If no agreement:** one claimant per child per year, resolved by a simple tie‑breaker (e.g., higher AGI or prior‑year claimant)
+* **No double‑counting:** a child counts once toward the 3‑child cap per household
 
 **Cost:** New system ~\$220B annually vs. current ~\$276B (CTC + EITC + childcare) → net savings ~\$56B.
 
@@ -263,7 +291,7 @@ This removes benefit cliffs, treats stay-at-home and working parents equally, an
 
 ## **Q8: What are the ROTH account reforms, and why close the "Peter Thiel loophole"?**
 
-The Act makes four changes to ROTH IRAs that expand access while closing mega-account abuse:
+For savers, this means broader access to ROTHs and clear limits, while mega-account abuse is closed. The Act makes four changes to ROTH IRAs:
 
 1. **Remove income limits** for direct ROTH contributions (ends backdoor conversions).
 2. **Raise the annual cap** to \$15K (indexed).
@@ -274,7 +302,7 @@ These reforms close the "Peter Thiel" mega-ROTH loophole while protecting ordina
 
 ## **Q9: How does the Act close the 'buy, borrow, die' loophole?**
 
-Buy-borrow-die lets ultra-wealthy households borrow against appreciated assets, live on loans, and erase gains at death via stepped-up basis. ATFA closes the loop with a deemed-sale rule for asset-backed borrowing and by ending stepped-up basis.
+For most taxpayers, ordinary borrowing is unchanged; the only impact is on ultra-wealthy strategies that live tax-free on loans. Buy-borrow-die lets ultra-wealthy households borrow against appreciated assets, live on loans, and erase gains at death via stepped-up basis. ATFA closes the loop with a deemed-sale rule for asset-backed borrowing and by ending stepped-up basis.
 
 **New rule (asset-backed borrowing):**
 * If a loan is secured by appreciated assets and the loan exceeds cost basis, the excess triggers taxable gain  
@@ -287,7 +315,7 @@ Buy-borrow-die lets ultra-wealthy households borrow against appreciated assets, 
 
 ## **Q10: What happens when someone dies?**
 
-Under the Fair & Simple Tax Act, death is treated as a realization event — unrealized capital gains are taxed on the final return using the same lifetime capital gains system, and heirs receive a clean basis at the value at death.
+For most families, nothing is owed at death and heirs receive a clean basis; only large unrealized gains face tax. Under the Fair & Simple Tax Act, death is treated as a realization event — unrealized capital gains are taxed on the final return using the same lifetime capital gains system, and heirs receive a clean basis at the value at death.
 
 **How the exemption applies:**
 * Remaining lifetime exemption shields unrealized gains first  
@@ -301,7 +329,7 @@ Under the Fair & Simple Tax Act, death is treated as a realization event — unr
 
 ## **Q11: How does this close estate planning loopholes like GRATs, dynasty trusts, and valuation discounts?**
 
-The Act eliminates the underlying conditions that make these techniques work — without banning each vehicle. GRATs, dynasty trusts, valuation discounts, and similar tools rely on indefinite deferral, stepped-up basis at death, and high estate exemptions.
+For typical families, legitimate estate planning still works; the change is that appreciation can’t escape tax forever. The Act eliminates the underlying conditions that make these techniques work — without banning each vehicle. GRATs, dynasty trusts, valuation discounts, and similar tools rely on indefinite deferral, stepped-up basis at death, and high estate exemptions.
 
 **ATFA changes the foundation:**
 * Death is a realization event; no stepped-up basis  
@@ -314,7 +342,7 @@ The Act eliminates the underlying conditions that make these techniques work —
 
 ## **Q12: How do trusts work under this plan? Can I use them to avoid paying tax forever?**
 
-**No.** Trusts can still be used for estate planning and protection, but they cannot be used for permanent tax deferral.
+**No.** For families using trusts, you can still protect assets and manage distributions, but you cannot use trusts for permanent tax deferral.
 
 **How trusts are taxed:**
 * **Retained income/gains:** Trust pays **45%** in the year earned  
@@ -329,7 +357,7 @@ Trusts remain useful for governance, creditor protection, and controlled distrib
 
 ## **Q13: Doesn’t eliminating the primary residence exclusion hurt homeowners?**
 
-**No.** The \$1.5M lifetime capital gains exemption covers most home-sale gains and treats housing the same as other long-term saving.
+**No.** For most homeowners, nothing changes in practice — the \$1.5M lifetime capital gains exemption covers typical home-sale gains and treats housing the same as other long-term saving.
 
 **Example:** Buy at \$250K, sell at \$650K → \$400K gain, **\$0 tax**. You still have \$1.1M of exemption left for future gains.
 
@@ -341,7 +369,7 @@ The exemption is designed to cover multiple moves over a lifetime; most househol
 
 ## **Q14: Why no special carried interest rule?**
 
-Because the structure already closes it. At \$100M+ in lifetime capital gains, the rate converges to 45% — the same as the top ordinary income rate — so re-labeling labor income as capital gains no longer helps.
+For most funds and investors, there’s no new special rule to track; carried interest is neutralized automatically. At \$100M+ in lifetime capital gains, the rate converges to 45% — the same as the top ordinary income rate — so re-labeling labor income as capital gains no longer helps.
 
 **Why this works:**
 * Applies automatically across private equity, hedge funds, venture, and real estate  
@@ -354,7 +382,7 @@ Because the structure already closes it. At \$100M+ in lifetime capital gains, t
 
 ## **Q15: Will this punish entrepreneurs and innovators?**
 
-**No.** ATFA keeps long-term capital gains treatment, adds a \$1.5M lifetime exemption, and taxes short-term trading as ordinary income. It replaces QSBS with a **universal exemption** that applies to all founders, regardless of entity type or industry.
+**No.** For founders, long-term gains are still rewarded and the \$1.5M lifetime exemption applies broadly. ATFA keeps long-term capital gains treatment, adds a \$1.5M lifetime exemption, and taxes short-term trading as ordinary income. It replaces QSBS with a **universal exemption** that applies to all founders, regardless of entity type or industry.
 
 Some large exits that currently qualify for QSBS will pay more, but the system is broader, simpler, and more predictable. Case studies are in [Appendix B](#appendix-b-taxpayer-case-studies).
 
@@ -363,7 +391,7 @@ Some large exits that currently qualify for QSBS will pay more, but the system i
 
 ## **Q16: What about expatriation and capital flight?**
 
-**Renouncing citizenship triggers the same rule as death: a mark-to-market tax on all gains, with the lifetime exemption and progressive capital gains rates.**
+For almost everyone, this doesn’t apply; for those who expatriate, gains are taxed as if sold. **Renouncing citizenship triggers the same rule as death: a mark-to-market tax on all gains, with the lifetime exemption and progressive capital gains rates.**
 
 ### **How the exit tax works**
 - All appreciated assets are marked to market on the departure date; remaining lifetime exemption applies first.
@@ -381,6 +409,20 @@ Some large exits that currently qualify for QSBS will pay more, but the system i
 - Even with some evasion, the leakage is small relative to the revenue recovered from closing other loopholes.
 
 **Bottom line:** Departure is taxed as if assets were sold. Payment relief prevents fire sales, existing reporting makes evasion difficult, and the fiscal risk is limited.
+
+## **Q17: What is not included in this Act?**
+
+For taxpayers, this means the plan stays focused on personal taxation to maximize clarity, feasibility, and administrative simplicity. As a result:
+
+* **No wealth tax.** The lifetime capital gains system (with progressive rates and no step‑up at death) is the cleaner substitute.
+* **No corporate tax changes.** Those may be considered in a future phase, but are outside this Act’s scope.
+* **No new broad‑based taxes** (e.g., VAT or national sales taxes).
+
+**Bottom line:** Focus now is loophole closure and simplification; broader tax architecture changes can follow once this foundation is in place.
+
+## **Q18: Why now?**
+
+For taxpayers, the timing finally supports real simplification. The code has hit a complexity ceiling, parallel systems (AMT, NIIT, deductions, carve‑outs) have become unmanageable, and public trust is eroding in a system that feels arbitrary and gamed. At the same time, automation and pre‑filled returns are now technically feasible — but only if the underlying rules are simplified. This proposal focuses on the foundation first: reduce complexity, close obvious gaps, and create a clearer base for future reforms.
 
 
 ## **Appendix A: Revenue Model**
@@ -470,7 +512,7 @@ These case studies show simplified before/after calculations for representative 
 | Case Study | Income/Gain | Current Law Effective Rate | ATFA Effective Rate | Change |
 | ----- | ----- | ----- | ----- | ----- |
 | [Nurse + 1 Kid (HOH)](#1-nurse--sofia-head-of-household-1-child-75000) | \$75K | 7.5% | 4.9% | **\-2.6%** |
-| [Family + 3 Kids](#2-middle-class-family--the-garcias-married--3-kids-140000) | \$140K | 6.5% | 2.8% | **\-3.7%** |
+| [Family + 3 Kids](#2-middle-class-family--the-garcias-married--3-kids-140000) | \$140K | 6.5% | 2.2% | **\-4.3%** |
 | [High Earner](#3-high-earner--david-single-600000-w-2-salary) | \$600K | 30.6% | 30.6% | **0%** |
 | [Homeowner](#4-homeowner--linda-sells-primary-residence-400k-gain) | \$400K gain | 5.6% | 0% | **\-5.6%** |
 | [Small Founder](#5-small-founder--priya-3m-exit-after-8-years) | \$3M exit | 19.8% | 7.2% | **\-12.6%** |
@@ -501,9 +543,9 @@ These case studies show simplified before/after calculations for representative 
 | :---- | :---- | :---- | :---- |
 | Gross Income | \$140,000 | \$140,000 | — |
 | Federal Income Tax | \$15,073 | \$15,073 | \$0 |
-| Child credits/benefits | -\$6,000 | -\$11,143 | -\$5,143 |
-| **Net Federal Tax** | **\$9,073** | **\$3,930** | **\-\$5,143** |
-| **Effective Rate** | **6.5%** | **2.8%** | **\-3.7%** |
+| Child credits/benefits | -\$6,000 | -\$12,000 | -\$6,000 |
+| **Net Federal Tax** | **\$9,073** | **\$3,073** | **\-\$6,000** |
+| **Effective Rate** | **6.5%** | **2.2%** | **\-4.3%** |
 
 ---
 
