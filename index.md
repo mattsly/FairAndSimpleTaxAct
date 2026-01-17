@@ -1,5 +1,3 @@
-# **The Fair & Simple Tax Act**
-
 *This document presents the Fair & Simple Tax Act (FSTA), a standalone proposal to simplify personal income and capital taxation. It is intentionally written in an [Amazon-style "Working Backwards" PR-FAQ format](https://www.aboutamazon.com/news/workplace/an-insider-look-at-amazons-culture-and-processes) by [Matt Sly](https://wwww.mattsly.com). I spent much of my career in technology and product development, where this format is commonly used to present complex ideas, establish clear design tenets, and make assumptions and tradeoffs explicit.*
 
 *I am not a career policy professional. I’m a software entrepreneur approaching the U.S. tax code as a product that has accumulated complexity over decades without a clear owner. My goal is to help “refactor” the tax code by simplifying where possible, reducing the hidden costs of complexity and edge cases, and making fiscal tradeoffs legible to both policymakers and the public.*
@@ -14,9 +12,9 @@
 
 **Part 1: The Big Picture**
 - [Q1: What actually changes?](#q1-what-does-the-fair--simple-tax-act-actually-change)
-- [Q2: How much simpler is this?](#q2-how-much-simpler-is-this-really)
-- [Q3: Who benefits?](#q3-who-benefits-and-who-pays-more)
-- [Q4: How far does this go toward a responsible federal budget?](#q4-how-far-does-this-go-toward-a-responsible-federal-budget)
+- [Q2: How far does this go toward a responsible federal budget?](#q2-how-far-does-this-go-toward-a-responsible-federal-budget)
+- [Q3: How much simpler is this really?](#q3-how-much-simpler-is-this-really)
+- [Q4: Who benefits and who pays more?](#q4-who-benefits-and-who-pays-more)
 
 **Part 2: Core Mechanics**
 - [Q5: Income brackets](#q5-how-do-the-new-income-tax-brackets-work)
@@ -35,9 +33,10 @@
 - [Q14: Carried interest](#q14-why-no-special-carried-interest-rule)
 - [Q15: Entrepreneurs & innovators](#q15-will-this-punish-entrepreneurs-and-innovators)
 - [Q16: Expatriation](#q16-what-about-expatriation-and-capital-flight)
-- [Q17: What is not included?](#q17-what-is-not-included-in-this-act)
-- [Q18: Why now?](#q18-why-now)
-- [Q19: Social Security and payroll taxes](#q19-does-this-act-address-social-security-or-payroll-taxes)
+- [Q17: Why not just impose a wealth tax?](#q17-why-not-just-impose-a-wealth-tax)
+- [Q18: What is not included?](#q18-what-is-not-included-in-this-act)
+- [Q19: Why now?](#q19-why-now)
+- [Q20: Social Security and payroll taxes](#q20-does-this-act-address-social-security-or-payroll-taxes)
 
 **Appendices**
 - [Appendix A: Revenue Model](#appendix-a-revenue-model)
@@ -52,7 +51,7 @@ FOR IMMEDIATE RELEASE
 
 **The Fair & Simple Tax Act Simplifies the Tax Code, Closes Loopholes, and Makes the System Work Better for Ordinary Americans**
 
-Today, the Fair & Simple Tax Act (FSTA) is introduced as a focused reform of personal income and capital taxation. The Act modernizes the U.S. tax code by eliminating unnecessary complexity, closing long-standing loopholes, and creating a system that is easier to understand, harder to game, and more fiscally durable over time.
+Today, the Fair & Simple Tax Act (FSTA) is introduced as a focused reform of personal income and capital taxation. The Act modernizes the U.S. tax code by eliminating unnecessary complexity, closing long-standing loopholes, and creating a system that is easier to understand, harder to game, and more fiscally durable over time. The Fair & Simple Tax Act raises $200-310 billion annually by closing loopholes and broadening the tax base—without raising rates on ordinary income, closing 15-25% of the federal deficit gap while making the system simpler and fairer for working families.
 
 Over decades, the tax code has accumulated layer upon layer of special rules, carve-outs, and parallel systems. While many of these provisions were created with good intentions, the result is a system that is difficult for taxpayers to understand, costly to comply with, and increasingly disconnected from its stated goals. Filing taxes has become unpredictable for ordinary households and arbitrage-driven for those with access to sophisticated planning.
 
@@ -85,9 +84,9 @@ For most taxpayers, filing stays familiar but becomes fairer and simpler, while 
 | **What Changes** | **Design Lens** | **Fiscal Impact** |
 | :---- | :---- | :---- |
 | **INCOME TAXES** | | |
-| Current brackets maintained + 45% top bracket ($1.5M+ Single / $3M+ MFJ); eliminates AMT and NIIT [(details in Q5)](#q5-how-do-the-new-income-tax-brackets-work) | Radical Simplicity, Fiscal Durability | Raises $10–20B |
+| Current brackets are maintained and a new 45% top bracket is added for (incomes $1.5M+ Single / $3M+ MFJ); eliminates AMT and NIIT [(details in Q5)](#q5-how-do-the-new-income-tax-brackets-work) | Radical Simplicity, Fiscal Durability | Raises $10–20B |
 | **CAPITAL GAINS** | | |
-| $1.5M lifetime exemption ($3M couples); progressive rates above [(details in Q6)](#q6-how-are-capital-gains-dividends-and-investment-income-taxed) | Fuel the Climb (Don’t Protect the Summit), Fiscal Durability | Raises $15–40B |
+| A new concept of a $1.5M *lifetime* tax free exemption ($3M couples); progressive rates above based on *lifetime* gains [(details in Q6)](#q6-how-are-capital-gains-dividends-and-investment-income-taxed) | Fuel the Climb (Don’t Protect the Summit), Fiscal Durability | Raises $15–40B |
 | Stepped-up basis eliminated; death = realization event [(details in Q10)](#q10-what-happens-when-someone-dies) | Fuel the Climb (Don’t Protect the Summit), Fiscal Durability | Raises $75–100B |
 | Buy-borrow-die closed [(details in Q9)](#q9-how-does-the-act-close-the-buy-borrow-die-loophole) | Fuel the Climb (Don’t Protect the Summit), Fiscal Durability | Raises $25–50B |
 | QSBS eliminated; universal $1.5M exemption for all [(details in Q15)](#q15-will-this-punish-entrepreneurs-and-innovators) | Radical Simplicity, Fuel the Climb (Don’t Protect the Summit) | Raises $10–20B |
@@ -103,52 +102,7 @@ For most taxpayers, filing stays familiar but becomes fairer and simpler, while 
 
 ---
 
-## **Q2: How much simpler is this really?**
-
-**For typical filers, this means fewer hidden rules and a system that’s easier to understand. FSTA simplifies the code by replacing narrow carve-outs with universal rules.**
-
-The current system’s complexity is a feature for those who can exploit it. FSTA targets the highest-value avoidance strategies:
-
-* **Stepped-up basis at death**  -  The $300B+ loophole letting appreciated assets pass tax-free across generations
-* **Buy-borrow-die**  -  Living off asset-backed loans to avoid ever selling (and ever paying tax)
-* **Carried interest**  -  Reclassifying labor income as capital gains (closed structurally via 45% convergence)
-* **QSBS carve-outs**  -  Sector-specific preferential treatment that creates distortions
-* **Backdoor ROTH and mega-ROTH sheltering**  -  Workarounds that let billionaires shelter billions tax-free
-* **Alternative Minimum Tax (AMT)**  -  A parallel tax system that adds complexity without solving the underlying problem
-* **Net Investment Income Tax (NIIT)**  -  Another layered system that complicates rather than clarifies
-
-FSTA replaces this with clear, universal rules:
-
-* Eight income brackets (adding 45% top bracket for $1.5M+ earners)
-* One lifetime capital gains exemption ($1.5M per person)
-* Death = realization event (no basis step-up)
-* Progressive capital gains convergence at $100M+ (45%, matching ordinary income)
-
-For typical filers, nothing changes structurally - you still file once a year with standard forms. But the system stops rewarding financial engineering and starts rewarding genuine value creation.
-
----
-
-## **Q3: Who benefits and who pays more?**
-
-For most families, taxes go down or stay flat; the increases are concentrated at the very top.
-
-* **Working and middle-class families:** pay less  
-* **Upper-middle-class families below the phase-out ceiling:** protected from increases  
-* **Extreme wealth:** pays more, through broader bases and higher top-end rates  
-* **Everyone:** saves time and money on compliance
-
-The pattern:
-* Income tax brackets match current law (no change for most workers)
-* Families with children benefit from the $4K/child credit  
-* Capital gains below \$1.5M are tax-free (replaces the primary residence exclusion), progressive rates above that (15%/20%/27%/32%/45%)  
-* Very large incomes ($1.5M+) and very large fortunes contribute more through the new 45% bracket
-
-**In plain terms:**  
-A nurse or teacher with kids saves money through the child benefit. A small business owner with capital gains under $1.5M pays nothing on those gains. A nine-figure fortune pays more.
-
----
-
-## **Q4: How far does this go toward a responsible federal budget?**
+## **Q2: How far does this go toward a responsible federal budget?**
 
 For taxpayers, this means no broad tax increase and an immediate deficit impact; the Fair & Simple Tax Act is **revenue-positive from Day 1**:
 
@@ -170,6 +124,51 @@ This closes roughly 15-25% of the deficit gap. The remainder requires additional
 ---
 
 ## **Part 2: Core Mechanics**
+
+---
+
+## **Q3: How much simpler is this really?**
+
+**For typical filers, this means fewer hidden rules and a system that’s easier to understand. FSTA simplifies the code by replacing narrow carve-outs with universal rules.**
+
+The current system’s complexity is a feature for those who can exploit it. FSTA targets the highest-value avoidance strategies:
+
+* **Stepped-up basis at death**  -  The $300B+ loophole letting appreciated assets pass tax-free across generations
+* **Buy-borrow-die**  -  Living off asset-backed loans to avoid ever selling (and ever paying tax)
+* **Carried interest**  -  Reclassifying labor income as capital gains (closed structurally via 45% convergence)
+* **QSBS carve-outs**  -  Sector-specific preferential treatment that creates distortions
+* **Backdoor ROTH and mega-ROTH sheltering**  -  Workarounds that let the wealthy shelter billions tax-free
+* **Alternative Minimum Tax (AMT)**  -  A parallel tax system that adds complexity without solving the underlying problem
+* **Net Investment Income Tax (NIIT)**  -  Another layered system that complicates rather than clarifies
+
+FSTA replaces this with clear, universal rules:
+
+* Eight income brackets (adding 45% top bracket for $1.5M+ earners)
+* One lifetime capital gains exemption ($1.5M per person)
+* Death = realization event (no basis step-up)
+* Progressive capital gains convergence at $100M+ (45%, matching the ordinary income rate)
+
+For typical filers, nothing changes structurally - you still file once a year with standard forms. But the system stops rewarding financial engineering and starts rewarding genuine value creation.
+
+---
+
+## **Q4: Who benefits and who pays more?**
+
+For most families, taxes go down or stay flat; the increases are concentrated at the very top.
+
+* **Working and middle-class families:** pay less  
+* **Upper-middle-class families below the phase-out ceiling:** protected from increases  
+* **Extreme wealth:** pays more, through broader bases and higher top-end rates  
+* **Everyone:** saves time and money on compliance
+
+The pattern:
+* Income tax brackets match current law (no change for most workers)
+* Families with children benefit from the $4K/child credit  
+* Capital gains below \$1.5M are tax-free (replaces the primary residence exclusion), progressive rates above that (15%/20%/27%/32%/45%)  
+* Very large incomes ($1.5M+) and very large fortunes contribute more through the new 45% bracket
+
+**In plain terms:**  
+A nurse or teacher with kids saves money through the child benefit. A small business owner with capital gains under $1.5M pays nothing on those gains. A nine-figure fortune pays more.
 
 ---
 
@@ -402,21 +401,38 @@ For almost everyone, this doesn’t apply; for those who expatriate, gains are t
 
 **Bottom line:** Departure is taxed as if assets were sold. Payment relief prevents fire sales, existing reporting makes evasion difficult, and the fiscal risk is limited.
 
-## **Q17: What is not included in this Act?**
+## **Q17: Why not just impose a wealth tax?**
+
+For taxpayers, this approach avoids annual asset valuations while still capturing extreme wealth. Wealth taxes have failed in most countries that tried them. France, Sweden, Austria, and others repealed their wealth taxes after discovering:
+
+- **Valuation challenges:** How do you annually value private companies, real estate, art, and other illiquid assets? Disputes are endless and expensive.
+- **Capital flight:** France lost an estimated 42,000 millionaires over 12 years before repealing its wealth tax in 2017. The revenue loss from departures exceeded the tax collected.
+- **Enforcement costs:** Administrative costs often approached or exceeded revenue, making the tax fiscally counterproductive.
+
+The Fair & Simple Tax Act achieves similar progressivity through realization events, including sales, death, borrowing, and expatriation, which are:
+
+- **Easier to value:** Transaction prices and market values at specific moments, not annual appraisals.
+- **Harder to evade:** Documented transactions with third-party reporting.
+- **More enforceable:** Uses existing IRS infrastructure for capital gains rather than creating new valuation bureaucracy.
+
+By taxing gains at realization with progressive rates (0% to 45%), eliminating stepped-up basis at death, and closing buy-borrow-die, we capture wealth accumulation without the administrative burden of annual valuations.
+
+**Bottom line:** This approach is more durable, more enforceable, and learns from the failures of wealth taxes in other countries.
+
+## **Q18: What is not included in this Act?**
 
 For taxpayers, this means the plan stays focused on personal taxation to maximize clarity, feasibility, and administrative simplicity. As a result:
 
-* **No wealth tax.** The lifetime capital gains system (with progressive rates and no step‑up at death) is the cleaner substitute.
 * **No corporate tax changes.** Those are outside this Act’s scope.
 * **No new broad‑based taxes** (e.g., VAT or national sales taxes).
 
 **Bottom line:** Focus now is loophole closure and simplification; broader tax architecture changes are outside this Act’s scope.
 
-## **Q18: Why now?**
+## **Q19: Why now?**
 
 For taxpayers, the timing finally supports real simplification. The code has hit a complexity ceiling, parallel systems (AMT, NIIT, deductions, carve‑outs) have become unmanageable, and public trust is eroding in a system that feels arbitrary and gamed. At the same time, automation and pre‑filled returns are now technically feasible  -  but only if the underlying rules are simplified. This proposal focuses on the foundation first: reduce complexity, close obvious gaps, and create a clearer base for future reforms.
 
-## **Q19: Does this Act address Social Security or payroll taxes?**
+## **Q20: Does this Act address Social Security or payroll taxes?**
 
 No. This Act focuses narrowly on simplifying personal income and capital taxation. Social Security and payroll taxes raise distinct questions about demographics, benefits, and long-term solvency, and deserve a dedicated treatment. A follow-on proposal will address Social Security directly using the same tenets.
 
